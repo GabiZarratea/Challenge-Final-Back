@@ -1,29 +1,41 @@
-import 'dotenv/config.js'                 //configurar las variables de entorno de la aplicación
-import './config/db.js'                   //configurar la conexión con la db
-import express from 'express'             //modulo necesario para levantar y configurar un servidor
-import path from 'path'                   //modulo necesario para conocer la ubicación de nuestro servidor
-import logger from 'morgan'               //modulo para registrar las peticiones que se realizan al servidor
-import cors from 'cors'                   //modulo para permitir origines cruzados (front con el back)
-import { __dirname } from './utils.js'    //importo la confgiuración de la ruta padre
-import indexRouter from './routes/index.js'   //enrutador principal de la aplicación
+import createError  from 'http-errors';
+import express  from 'express';
+import path  from 'path';
+import cookieParser  from 'cookie-parser';
+import logger  from 'morgan';
 
-let app = express();                      //defino una variable con la ejecución del módulo de express para poder CREAR un servidor
+import indexRouter  from './routes/index';
+import usersRouter  from './routes/users';
 
-//VIEWS
-//set es un método QUE CONFIGURA algo
-app.set('views', path.join(__dirname, 'views'));  //configuro que las vistas generadas en el backend están en la carpeta VIEWS
-app.set('view engine', 'ejs');                    //configuro que las vistas se van a definir con el lenguja EJS (motor de plantilla)
+let app = express();
 
-//MIDDLEWARES
-//son funciones que se ejecutan con cada petición y que van a PERMITIR/NO PERMITIR realizar algo
-//use es un método QUE OBLIGA (en este caso) A MI APLICACION a usar algo (ejecutar una función)
-app.use(logger('dev'));                                   //obliga al servidor a usar el middleware de registro de peticiones
-app.use(express.json());                                  //obliga al servidor a transformar/manejar formato json (post/put)
-app.use(express.urlencoded({ extended: false }));         //obliga al servidor a acceder a consultas complejas (permite leer queries y params de una petición)
-app.use(express.static(path.join(__dirname, 'public')));  //obliga al servidor a generar una carpeta de acceso PUBLICO al cliente
-app.use(cors())                                           //obliga al servidor a permitir el cruce de origines de front/back
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
 
-//ENDPOINTS
-app.use('/api', indexRouter);                             //obliga al servidor a usar las rutas definidas en el enrutador principal con la palabrita "/api"
+app.use(logger('dev'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
 
-export default app
+app.use('/', indexRouter);
+app.use('/users', usersRouter);
+
+// catch 404 and forward to error handler
+app.use(function(req, res, next) {
+  next(createError(404));
+});
+
+// error handler
+app.use(function(err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
+
+  // render the error page
+  res.status(err.status || 500);
+  res.render('error');
+});
+
+module.exports = app;
