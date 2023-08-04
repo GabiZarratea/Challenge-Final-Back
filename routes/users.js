@@ -1,9 +1,10 @@
-var express = require('express');
-var router = express.Router();
+import Router from "express";
+import signin from "../controllers/users/signin.js";
+import register from "../controllers/users/register.js";
 
-/* GET users listing. */
-router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
-});
+let auth_router = Router();
 
-module.exports = router;
+auth_router.post("/signin", signin);
+auth_router.post('/register', register);
+
+export default auth_router;
