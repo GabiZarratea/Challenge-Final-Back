@@ -7,6 +7,7 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "users": "node ./models/data/users.js",
+    "phoneTabs":"node ./models/data/PhoneTabs.js",
     "audiovideos": "node ./models/data/audiovideos.js"
   },
   "dependencies": {
