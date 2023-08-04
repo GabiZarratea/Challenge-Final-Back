@@ -2,6 +2,7 @@
 import express from 'express'
 import phoneTabs_router from './phoneTabs.js'
 import audioVideo_router from './audiovideo.js';
+import gamers_router from './gamers.js';
 
 let router = express.Router()
 
@@ -13,5 +14,6 @@ router.get('/', function(req, res, next) {
 
 router.use('/audiovideo', audioVideo_router)
 router.use('/phoneTabs' , phoneTabs_router)
+router.use('/gamers', gamers_router)
 export default router
 
