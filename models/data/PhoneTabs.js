@@ -28,8 +28,7 @@ let PhoneTabsData=[{
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a235mzkearo/gallery/ar-galaxy-a23-sm-a235-sm-a235mzkearo-532206859?$684_547_PNG$"
 ],
     price: 279,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 4,
 },
 {
@@ -58,8 +57,7 @@ let PhoneTabsData=[{
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a045mzgearo/gallery/ar-galaxy-a04-sm-a045-sm-a045mzgearo-534153827?$684_547_PNG$"
 ],
     price: 170,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 3,
 },
 {
@@ -88,8 +86,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/51bpy9qzM9L._AC_SX679_.jpg"
 ],
     price: 330 ,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 5,
 },
 {
@@ -118,8 +115,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/61Jv7HNgcnL._AC_SX679_.jpg"
 ],
     price: 650,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 2,
 },
 {
@@ -148,8 +144,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/41CYpzvgDFL._AC_SY879_.jpg"
 ],
     price: 845,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 3,
 },
 {
@@ -178,8 +173,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/71tkKd28TfL._AC_SX466_.jpg"
 ],
     price: 999 ,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 1,
 },
 {
@@ -208,8 +202,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/714B1PaGorL._AC_SX679_.jpg"
 ],
     price: 649,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 2,
 },
 {
@@ -238,8 +231,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/7161nwSVX9L._AC_SX679_.jpg"
 ],
     price: 1399,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 4,
 },
 {
@@ -268,8 +260,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_908818-MLM51559388192_092022-O.webp"
 ],
     price: 900,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 1,
 },
 {
@@ -297,8 +288,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/51bXZXdQlgL._AC_SX679_.jpg"
 ],
     price: 500,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 6,
 },
 {
@@ -327,8 +317,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/413Eb+YF-UL._AC_SX679_.jpg"
 ],
     price: 180,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 2,
 },
 {
@@ -357,8 +346,7 @@ let PhoneTabsData=[{
     "https://m.media-amazon.com/images/I/41wl4buY7ML._AC_SX679_.jpg"
 ],
     price: 400,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 2,
 },
 {
@@ -388,8 +376,7 @@ let PhoneTabsData=[{
     
 ],
     price: 230,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 3,
 },
 {
@@ -418,8 +405,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_935715-MLA53362587943_012023-O.webp"
 ],
     price: 250,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 5,
 },
 {
@@ -447,8 +433,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_785045-MLU69762392813_062023-O.webp"
 ],
     price: 200,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 3,
 },
 {
@@ -475,8 +460,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_752447-MLU69482273876_052023-O.webp"
 ],
     price: 431,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 1,
 },
 {
@@ -502,8 +486,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_883535-MLA52222798941_102022-O.webp"
 ],
     price: 520,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 2,
 },
 {
@@ -529,8 +512,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_992503-MLA52178284465_102022-O.webp"
 ],
     price: 450,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 3,
 },
 {
@@ -558,8 +540,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_669544-MLU69494909745_052023-O.webp"
 ],
     price: 210,
-    verified: true ,
-    verify_code:'',
+    Moreview: false,
     available: 5,
 },
 {
@@ -587,8 +568,7 @@ let PhoneTabsData=[{
     "https://http2.mlstatic.com/D_NQ_NP_857769-MLA52579644081_112022-O.webp"
 ],
     price: 208,
-    verified: true ,
-    verify_code:'',
+    Moreview: true,
     available: 5,
 },
 ]
