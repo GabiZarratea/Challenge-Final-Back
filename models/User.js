@@ -13,5 +13,5 @@ let schema = new Schema({
     timestamps:true
 })
 
-let User = model(collection,schema)
+let User = model(collection, schema)
 export default User

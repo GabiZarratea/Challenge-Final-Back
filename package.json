@@ -7,7 +7,7 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "users": "node ./models/data/users.js",
-    "general": "node ./models/data/general.js"
+    "audiovideos": "node ./models/data/audiovideos.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
