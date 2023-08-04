@@ -1,7 +1,7 @@
 import { Schema,model } from 'mongoose'
 
-let collection = 'users'            //nombre de la coleccion donde se van a guardar todos los documentos
-let schema = new Schema({           //molde de los datos que se van a guardar en esa coleccion
+let collection = 'users'
+let schema = new Schema({
     email: { type:String,required:true },
     password: { type:String,required:true },
     photo: { type:String,required:true },
@@ -13,5 +13,5 @@ let schema = new Schema({           //molde de los datos que se van a guardar en
     timestamps:true
 })
 
-let User = model(collection,schema)
+let User = model(collection, schema)
 export default User
