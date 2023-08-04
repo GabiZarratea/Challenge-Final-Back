@@ -19,8 +19,7 @@ let schema = new Schema({           //molde de los datos que se van a guardar en
     },
     cover_photo: [{ type: String, required: true }],
     price: { type: Number, required: true },
-    verified: { type: Boolean, required: true },
-    verify_code: { type: String, required: false },
+    Moreview: { type: Boolean },
     available: { type: Number, required: true }
   },{
     timestamps:true
