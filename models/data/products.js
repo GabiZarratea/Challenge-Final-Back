@@ -642,7 +642,7 @@ let products = [
     } ,
     price: 484999,
     brand:'Samsung',
-    Moreview: v,
+    Moreview: true,
     available: 5,
 },
 {
