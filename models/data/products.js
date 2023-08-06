@@ -50,8 +50,8 @@ let products = [
     "https://images.fravega.com/f300/abd2a4884d3f64e4ca09bdafe75be5fa.jpg.webp"
     ],
     price: 83999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 15,
 },
 {
@@ -99,8 +99,8 @@ let products = [
     "https://images.fravega.com/f300/d3001894cfcacb9fde93548690e380fb.png.webp"
     ],
     price: 129999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 3,
 },
 {
@@ -147,8 +147,8 @@ let products = [
     "https://images.fravega.com/f300/e819eb5a8b27a29e8684e12910627e50.jpg.webp"
     ],
     price: 184999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 15,
 },
 {
@@ -193,8 +193,8 @@ let products = [
     "https://images.fravega.com/f300/953259f05194123b82c2bb5c58df21a2.jpg.webp"
     ],
     price: 324999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 15,
 },
 {
@@ -219,8 +219,8 @@ let products = [
         "https://medias.musimundo.com/medias/00508020-178122-178122-01.png-178122-01.png-size515?context=bWFzdGVyfGltYWdlc3wyNTA2MTl8aW1hZ2UvcG5nfGg3Ni9oOWYvMTA0MDc0Njc3MTI1NDIvMDA1MDgwMjAtMTc4MTIyLTE3ODEyMl8wMS5wbmctMTc4MTIyXzAxLnBuZ19zaXplNTE1fGE4NDQ5NTFjN2Q5MjM2YjljNGQ3MTY5NWE5NTI4M2UzY2ZkZmRhNGJiZTQyMjAxOTJkNjQ2ZjQ2MjQxMzdiODg"
     ],
     price: 74799,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 2,
 },
 {
@@ -245,8 +245,8 @@ let products = [
         "https://medias.musimundo.com/medias/size515-178913-01.png?context=bWFzdGVyfGltYWdlc3w0MjQ4MTF8aW1hZ2UvcG5nfGgwMS9oZWYvMTA0ODIzNDQzMjkyNDYvc2l6ZTUxNV8xNzg5MTNfMDEucG5nfDk4MWZmZDM3Y2I4NWY0NzE2MTk5OTk0NDExNTAwMjgzYzJmOTMwYWRlMzFmNzViODU5MWNhYWNjMzk2ZmFiYjg"
 ],
     price: 11539,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 10,
 },
 {
@@ -271,8 +271,8 @@ let products = [
         "https://medias.musimundo.com/medias/size515-176753-01.jpg?context=bWFzdGVyfGltYWdlc3w0ODY5M3xpbWFnZS9qcGVnfGgwMi9oMmQvMTA0NzI2MjQ4ODE2OTQvc2l6ZTUxNV8xNzY3NTNfMDEuanBnfDU1ODVhYTkwMDMwODQ0NGEwODQyZTFkM2ZhNTJhOTBiOGI3Y2EzNzFkOTU4YTYyZGEzZmFjY2MwM2MxOTQyMGY"
     ],
     price: 31799,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 2,
 },
 {
@@ -297,8 +297,8 @@ let products = [
         "https://medias.musimundo.com/medias/00399070-177108-177108-01.png-177108-01.png-size515?context=bWFzdGVyfGltYWdlc3wxNzE4MjF8aW1hZ2UvcG5nfGg4MS9oM2EvMTAzODE1NjExMzUxMzQvMDAzOTkwNzAtMTc3MTA4LTE3NzEwOF8wMS5wbmctMTc3MTA4XzAxLnBuZ19zaXplNTE1fDE3YzNiYmM2MmE2NTYxZWZmMjkwM2Y2ODNmMzc5MGI4Y2VlYTRjMTgyNWExM2Q5NzI2NmYzY2ExODg5ODVhMWU"
     ],
     price: 14999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 2,
 },
 {
@@ -319,8 +319,8 @@ let products = [
     "https://medias.musimundo.com/medias/00463001-177533-177533-01.png-177533-01.png-size515?context=bWFzdGVyfGltYWdlc3wxMjQwMDR8aW1hZ2UvcG5nfGgwNS9oMTIvMTAzODE0OTgwODk1MDIvMDA0NjMwMDEtMTc3NTMzLTE3NzUzM18wMS5wbmctMTc3NTMzXzAxLnBuZ19zaXplNTE1fDY1ODMzYWI2YWY2ODY5ZDM5OTRlOGIwNWYyZDI5ZGNjMWYxYzBjMTZjMDEzYjdiMjM2NzQ0ODA0YTE5YzRlMDU"
     ],
     price: 6999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 2,
 },
 {
@@ -344,8 +344,8 @@ let products = [
     "https://medias.musimundo.com/medias/00210027-174973-174973-01.png-174973-01.png-size515?context=bWFzdGVyfGltYWdlc3w0MzA0NDN8aW1hZ2UvcG5nfGgwNi9oOGUvMTAzMDQ0NzAyNTM1OTgvMDAyMTAwMjctMTc0OTczLTE3NDk3M18wMS5wbmctMTc0OTczXzAxLnBuZ19zaXplNTE1fDhiMWU2YzIzYmZkYWVmNjMzNTZjMzM2ZGY5NzI1ZjJiNDk1MGFmZWNjODU0YTI1ODExMmVjODNhNmEyZThhZDY"
     ],
     price: 16999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -366,8 +366,8 @@ let products = [
     "https://medias.musimundo.com/medias/00299076-175886-175886-01.png-175886-01.png-size515?context=bWFzdGVyfGltYWdlc3wzOTM4MjV8aW1hZ2UvcG5nfGg2Zi9oNzYvMTAzMjA4NzkwMjYyMDYvMDAyOTkwNzYtMTc1ODg2LTE3NTg4Nl8wMS5wbmctMTc1ODg2XzAxLnBuZ19zaXplNTE1fDljMzVlNzU0MGUzMmY5YjRlNmJmODM3MmZlNmM2YWE4MDU1NGRhMTc3ZWU4NzIxY2M5OGEzNzE3NjQzNDVlMWY"
     ],
     price: 5299,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 20,
 },
 {
@@ -392,8 +392,8 @@ let products = [
     "https://medias.musimundo.com/medias/00307102-176637-176637-01.png-176637-01.png-size515?context=bWFzdGVyfGltYWdlc3w2Nzc5NXxpbWFnZS9wbmd8aGM3L2g4ZS8xMDM3OTc0MTA2OTM0Mi8wMDMwNzEwMi0xNzY2MzctMTc2NjM3XzAxLnBuZy0xNzY2MzdfMDEucG5nX3NpemU1MTV8OTJmYTZkZGQ0OWVlYzYzMTZmN2RhZjAyZjU1MjU1ODE5OGMyODI0MWU4MTRlMTBhZTk5MWQ1ZjY1NzA4MDI5OQ"
     ],
     price: 12549,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 20,
 },
 {
@@ -414,8 +414,8 @@ let products = [
     "https://images.fravega.com/f300/8e4a0c3a6bd760a5c6a7b342238e86af.jpg.webp"
     ],
     price: 829999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 15,
 },
 {
@@ -436,8 +436,8 @@ let products = [
     "https://images.fravega.com/f300/b31cc4293f0b9c401e7fa3cd2f408277.jpg.webp"
     ],
     price: 799999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 5,
 },
 {
@@ -458,8 +458,8 @@ let products = [
     "https://images.fravega.com/f300/183a0a288ec9585ad6e3d33b19a18be8.jpg.webp"
     ],
     price: 269999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 15,
 },
 {
@@ -479,8 +479,8 @@ let products = [
     "https://images.fravega.com/f300/1b8055ba2e62c8cd58b4c95e5edafa94.jpg.webp"
     ],
     price: 264999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 3,
 },
 {
@@ -509,8 +509,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_913813-MLA51739471157_092022-O.webp"
     ],
     price: 109719,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 15,
 },
 {
@@ -538,8 +538,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_764367-MLU70020195359_062023-O.webp"
     ],
     price: 6590,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 15,
 },
 {
@@ -566,8 +566,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_765617-MLU70065322575_062023-O.webp"
     ],
     price: 118153,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 4,
 },
 {
@@ -595,8 +595,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_913813-MLA51739471157_092022-O.webp"
     ],
     price: 102434,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 10,
 },
 {
@@ -618,8 +618,8 @@ let products = [
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/05.png'
     ],
     price: 509999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 10,
 },
 {
@@ -641,8 +641,8 @@ let products = [
         Ram:'8GB DDR4-3200 MHz (2 x 4GB)'
     } ,
     price: 484999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: v,
     available: 5,
 },
 {
@@ -662,8 +662,8 @@ let products = [
         Ram:'8GB DDR4'
     } ,
     price: 429999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -683,8 +683,8 @@ let products = [
         Ram:'8GB DDR4'
     } ,
     price: 519999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 2,
 },
 {
@@ -704,8 +704,8 @@ let products = [
         Ram:'16GB DDR4'
     } ,
     price: 1149999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -724,8 +724,8 @@ let products = [
         Ram:'8GB DDR4'
     } ,
     price: 349999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -744,8 +744,8 @@ let products = [
         Ram:'8GB DDR4'
     } ,
     price: 929999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -764,8 +764,8 @@ let products = [
         Ram:'8GB DDR4'
     } ,
     price: 359999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 9,
 },
 {
@@ -784,8 +784,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 1759999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -804,8 +804,8 @@ let products = [
         Ram:'16GB'
     } ,
     price: 3059999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 26,
 },
 {
@@ -824,8 +824,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 494999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -844,8 +844,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 764999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -864,8 +864,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 489999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 6,
 },
 {
@@ -884,8 +884,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 414999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 1,
 },
 {
@@ -904,8 +904,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 1054999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 18,
 },
 {
@@ -924,8 +924,8 @@ let products = [
         Ram:'16GB'
     } ,
     price: 2179999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -944,8 +944,8 @@ let products = [
         Ram:'16GB'
     } ,
     price: 2114999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 4,
 },
 {
@@ -964,8 +964,8 @@ let products = [
         Ram:'8GB'
     } ,
     price: 749999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 12,
 },
 {
@@ -984,8 +984,8 @@ let products = [
         Ram:'16GB'
     } ,
     price: 1059999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -1004,8 +1004,8 @@ let products = [
         Ram:'16GB'
     } ,
     price: 4489999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 16,
 },
 {
@@ -1035,8 +1035,8 @@ let products = [
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a235mzkearo/gallery/ar-galaxy-a23-sm-a235-sm-a235mzkearo-532206859?$684_547_PNG$"
 ],
     price: 279999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 4,
 },
 {
@@ -1066,8 +1066,8 @@ let products = [
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a045mzgearo/gallery/ar-galaxy-a04-sm-a045-sm-a045mzgearo-534153827?$684_547_PNG$"
 ],
     price: 169999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 3,
 },
 {
@@ -1097,8 +1097,8 @@ let products = [
     "https://m.media-amazon.com/images/I/51bpy9qzM9L._AC_SX679_.jpg"
 ],
     price: 329999 ,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 16,
 },
 {
@@ -1128,8 +1128,8 @@ let products = [
     "https://m.media-amazon.com/images/I/61Jv7HNgcnL._AC_SX679_.jpg"
 ],
     price: 649999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 2,
 },
 {
@@ -1159,8 +1159,8 @@ let products = [
     "https://m.media-amazon.com/images/I/41CYpzvgDFL._AC_SY879_.jpg"
 ],
     price: 844999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 3,
 },
 {
@@ -1190,8 +1190,8 @@ let products = [
     "https://m.media-amazon.com/images/I/71tkKd28TfL._AC_SX466_.jpg"
 ],
     price: 99999 ,
-        verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 16,
 },
 {
@@ -1221,8 +1221,8 @@ let products = [
     "https://m.media-amazon.com/images/I/714B1PaGorL._AC_SX679_.jpg"
 ],
     price: 649999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -1252,8 +1252,8 @@ let products = [
     "https://m.media-amazon.com/images/I/7161nwSVX9L._AC_SX679_.jpg"
 ],
     price: 1399999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 4,
 },
 {
@@ -1283,8 +1283,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_908818-MLM51559388192_092022-O.webp"
 ],
     price: 899999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 1,
 },
 {
@@ -1313,8 +1313,8 @@ let products = [
     "https://m.media-amazon.com/images/I/51bXZXdQlgL._AC_SX679_.jpg"
 ],
     price: 499999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 6,
 },
 {
@@ -1344,8 +1344,8 @@ let products = [
     "https://m.media-amazon.com/images/I/413Eb+YF-UL._AC_SX679_.jpg"
 ],
     price: 179999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -1375,8 +1375,8 @@ let products = [
     "https://m.media-amazon.com/images/I/41wl4buY7ML._AC_SX679_.jpg"
 ],
     price: 399999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 12,
 },
 {
@@ -1407,8 +1407,8 @@ let products = [
     
 ],
     price: 229999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 16,
 },
 {
@@ -1438,8 +1438,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_935715-MLA53362587943_012023-O.webp"
 ],
     price: 249999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 5,
 },
 {
@@ -1468,8 +1468,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_785045-MLU69762392813_062023-O.webp"
 ],
     price: 219999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 16,
 },
 {
@@ -1497,8 +1497,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_752447-MLU69482273876_052023-O.webp"
 ],
     price: 431999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 5,
 },
 {
@@ -1525,8 +1525,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_883535-MLA52222798941_102022-O.webp"
 ],
     price: 519999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 11,
 },
 {
@@ -1553,8 +1553,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_992503-MLA52178284465_102022-O.webp"
 ],
     price: 449999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 13,
 },
 {
@@ -1583,8 +1583,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_669544-MLU69494909745_052023-O.webp"
 ],
     price: 209999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: false,
     available: 15,
 },
 {
@@ -1613,8 +1613,8 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_857769-MLA52579644081_112022-O.webp"
 ],
     price: 207999,
-    verified: true ,
-    verify_code:'',
+    brand:'Samsung',
+    Moreview: true,
     available: 5,
 },
 ]

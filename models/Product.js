@@ -9,8 +9,7 @@ let schema = new Schema({
     description: {type: Object, required: true},
     cover_photo: {type: Array, required: true},
     price: { type: Number, required: true },
-    verified: { type: Boolean, required: true },
-    verify_code: { type: String, required: false },
+    Moreview: { type: Boolean },
     available: { type: Number, required: true }
   },{
     timestamps:true
