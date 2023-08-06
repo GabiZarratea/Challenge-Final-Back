@@ -9,7 +9,8 @@
     "users": "node ./models/data/users.js",
     "phoneTabs":"node ./models/data/PhoneTabs.js",
     "audiovideos":"node ./models/data/audiovideos.js",
-    "data": "node ./models/data/data.js"
+    "data": "node ./models/data/data.js",
+    "gamers": "node ./models/data/gamers.js" 
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
