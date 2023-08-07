@@ -4,7 +4,7 @@ import '../../config/db.js'
 
 let gamers = [{
     title: "PC Core i3-10100F E670 8|256|19|GT210",
-    cover_photo: "",
+    cover_photo: ["https://i.ibb.co/yNCqyyz/Pc-i3.png"],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -19,14 +19,18 @@ let gamers = [{
             ram: "8GB de RAM",
             stabilizer: "900VA Forza FVR-902 8-Tomas",
         },
-        price: "350",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 350,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
 }, {
     title: "PC Core i5-10400F MX360 16|500|21.5|1660",
-    cover_photo: "",
+    cover_photo: ["https://i.ibb.co/1Xtyg2x/Pc-i5.png"],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -41,14 +45,18 @@ let gamers = [{
             power_supply: "550W 80Plus Bronze",
             stabilizer: "900VA Forza FVR-902 8-Tomas",
         },
-        price: "480",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 480,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: false,
 }, {
     title: "PC Core i7-11700F CMP320 16|1|24|3060",
-    cover_photo: "",
+    cover_photo: ["https://i.ibb.co/KWmJn4W/Pc-i7.png"],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -63,14 +71,18 @@ let gamers = [{
             power_supply: "550W 80Plus Bronze",
             stabilizer: "1000VA Forza FVR-1002 8-Tomas",
         },
-        price: "800",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 800,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
 }, {
     title: "PC Core i9-11900KF AC300G 16|1|27|3070",
-    cover_photo: "",
+    cover_photo: ["https://i.ibb.co/r41FVnX/Pc-i9.png"],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -85,14 +97,20 @@ let gamers = [{
             power_supply: "650W 80Plus Glod",
             stabilizer: "1000VA Forza FVR-1002 8-Tomas",
         },
-        price: "1300",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 1300,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
 }, {
     title: "PC Ryzen 3 4100 GEMINE M 16|500|24|1630",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/qCTd3Nm/Pc-R3.png"
+    ],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -107,14 +125,20 @@ let gamers = [{
             power_supply: "550W Certificado",
             stabilizer: "900VA Forza FVR-1002 8-Tomas",
         },
-        price: "300",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 300,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
 }, {
     title: "PC Ryzen 5 3600 MK RINO DESTROYER 16|500|22|1650",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/s5y4rkk/Pc-R5.png"
+    ],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -129,14 +153,20 @@ let gamers = [{
             power_supply: "500W Certificado",
             stabilizer: "1000VA Forza FVR-1002 8-Tomas",
         },
-        price: "700",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 700,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: false,
 }, {
     title: "PC WS Ryzen 7 5800X B600L 32|1|26|W6400",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/686jpx6/Pc-R7.png"
+    ],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -151,14 +181,20 @@ let gamers = [{
             power_supply: "550W 80Plus Bronze",
             stabilizer: "1000VA Forza FVR-1002 8-Tomas",
         },
-        price: "950",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 950,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
 }, {
     title: "PC Ryzen 9 5900X  MK RINO G111R 32|S1T|27|3080Ti",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/nr3nDy7/Pc-R9.png"
+    ],
     description: {
         main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
         features: {
@@ -173,61 +209,112 @@ let gamers = [{
             power_supply: "850W 80Plus Glod",
             stabilizer: "1000VA Forza FVR-1002 8-Tomas",
         },
-        price: "1500",
-        verified: "",
-        verify_code: "",
-        available: "",
-    }
+    },
+    price: 1500,
+    verified: true,
+    verify_code: "",
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: false,
 }, {
     title: "Silla Gamer QTE GC03 Purple",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/82tjxYX/sillas-game-purple.webp",
+        "https://i.ibb.co/jLQSYz2/sillas-game-purple2.webp",
+        "https://i.ibb.co/vkPkZ3G/sillas-game-purple3.webp"
+    ],
     description: `Almohadillas superior desmontables. Base de acero cromado de 5 estrellas con ruedas. apoyabrazos elevados. Rotación-giro de 360 grados. Diseño ergonomico.  Acabado de cuero sintético completo. Materiales: Cuero Pu / Pvc / Metal / Nylon`,
-    price: "80",
-    verified: "",
+    price: 80,
+    verified: true,
     verify_code: "",
-    available: "",
+    available: 4,
+    brand: "QTE",
+    category: "gamers",
+    type: "Chair",
+    Moreview: false,
 }, {
     title: "Silla Gamer con Masajeador",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/Y00pfX4/gamer-masajeador2.png",
+        "https://i.ibb.co/86MLqWt/gamer-masajeador.png",
+        "https://i.ibb.co/VL3fHSm/gamer-masageador-descripcion.jpg"
+    ],
     description: `Almohadillas superior e inferior desmontables con masajeador usb. Base de acero cromado de 5 estrellas con ruedas. Altura ajustable y apoyabrazos elevados. Mecanismo de bloqueo de inclinacion 90-150 grados. Rotación-giro de 360 grados. Diseño ergonomico.  Acabado de cuero sintético completo. Materiales: Cuero Pu / Pvc / Metal / Nylon.`,
-    price: "140",
-    verified: "",
+    price: 140,
+    verified: true,
     verify_code: "",
-    available: "",
+    available: 4,
+    brand: "Claudia M",
+    category: "gamers",
+    type: "Chair",
+    Moreview: false,
 }, {
     title: "Silla Gamer Reclinable Ergonómica Constrictor Monensis SIC-2001",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/s2krXJk/silla-verde.webp",
+        "https://i.ibb.co/WHGwYfX/silla-verde2.webp",
+        "https://i.ibb.co/JjMfsCy/silla-verde3.webp"
+    ],
     description: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
-    price: "130",
-    verified: "",
+    price: 130,
+    verified: true,
     verify_code: "",
-    available: "",
+    available: 4,
+    brand: "Constrictor",
+    category: "gamers",
+    type: "Chair",
+    Moreview: true,
 }, {
     title: "Silla gamer Apolo",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/2dMQhCv/silla-polo.jpg",
+        "https://i.ibb.co/1bKr8Fq/silla-polo3.webp",
+        "https://i.ibb.co/NY7vCHp/silla-polo2.jpg"
+    ],
     description: `Almohadillas superior e inferior desmontables. Base de acero cromado de 5 estrellas con ruedas. apoyabrazos elevados, apoyapies, reclina 90°, ajuste de altura. Rotación-giro de 360 grados. Diseño ergonomico.  Acabado de cuero sintético completo.`,
-    price: "140",
-    verified: "",
+    price: 140,
+    verified: true,
     verify_code: "",
-    available: "",
+    available: 4,
+    brand: "Apolo",
+    category: "gamers",
+    type: "Chair",
+    Moreview: true,
 }, {
     title: "MOUSE Gaming BT|Wireless RAZER NAGA PRO RGB 20K",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/VCDTvm3/maose-pro.jpg",
+        "https://i.ibb.co/wzGBpxk/maose-pro2.jpg"
+    ],
     description: `
     Este mouse modular inalámbrico para juegos viene con 3 tipos de placas laterales que encajan magnéticamente: diseños de 12, 6 y 2 botones especialmente diseñados para ayudarlo a adaptarse a diferentes géneros de juegos. Optimice su juego con estas configuraciones de botones recomendadas para cada placa lateral.`,
-    price: "80",
-    verified: "",
+    price: 80,
+    verified: true,
     verify_code: "",
-    available: "",
+    available: 4,
+    brand: "Razer",
+    category: "gamers",
+    type: "Mouse",
+    Moreview: true,
 }, {
     title: "MOUSE BT|Wireless LOGITECH MX ERGO TRACKBALL",
-    cover_photo: "",
+    cover_photo: [
+        "https://i.ibb.co/gvFRjF7/mx.jpg",
+        "https://i.ibb.co/KNqqmJG/mx2.jpg",
+        "https://i.ibb.co/18wWkqR/mx3.jpg"
+    ],
     description: `
 	El trackball más avanzado de Logitech para fieles entusiastas y usuarios que busquen alternativas a ratones y touchpads. Requiere un 20% menos de esfuerzo muscular que un ratón estándar.`,
-    price: "120",
-    verified: "",
+    price: 120,
+    verified: true,
     verify_code: "",
-    available: "",
+    available: 4,
+    brand: "Logitech",
+    category: "gamers",
+    type: "Mouse",
+    Moreview: false,
 }]
 
-Gamers.insertMany(gamers)
+Gamers?.insertMany(gamers)

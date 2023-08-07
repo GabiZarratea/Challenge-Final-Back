@@ -11,7 +11,8 @@
     "phoneTabs": "node ./models/data/PhoneTabs.js",
     "audiovideos": "node ./models/data/audiovideos.js",
     "products": "node ./models/data/products.js",
-    "data": "node ./models/data/data.js"
+    "data": "node ./models/data/data.js",
+    "electro": "node ./models/data/electrodomestics.js"
   },
   "dependencies": {
     "chai": "^4.3.7",
