@@ -11,6 +11,7 @@
     "phoneTabs":"node ./models/data/PhoneTabs.js",
     "audiovideos":"node ./models/data/audiovideos.js",
     "data": "node ./models/data/data.js",
+    "products": "node ./models/data/products.js",
     "gamers": "node ./models/data/gamers.js" 
   },
   "dependencies": {

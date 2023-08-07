@@ -49,7 +49,7 @@ let products = [
     "https://images.fravega.com/f300/d9a8a135637c0acd4db50fdff7a844b7.jpg.webp",
     "https://images.fravega.com/f300/abd2a4884d3f64e4ca09bdafe75be5fa.jpg.webp"
     ],
-    price: 83999,
+    price: 839,
     brand:'Samsung',
     Moreview: true,
     available: 15,
@@ -98,7 +98,7 @@ let products = [
     "https://images.fravega.com/f300/55ec578e88ea05ec5fcebfacc16df24d.jpg.webp",
     "https://images.fravega.com/f300/d3001894cfcacb9fde93548690e380fb.png.webp"
     ],
-    price: 129999,
+    price: 129,
     brand:'Samsung',
     Moreview: false,
     available: 3,
@@ -146,7 +146,7 @@ let products = [
     "https://images.fravega.com/f300/676b4dcf411b14af655c5c289ce72f33.jpg.webp",
     "https://images.fravega.com/f300/e819eb5a8b27a29e8684e12910627e50.jpg.webp"
     ],
-    price: 184999,
+    price: 184,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -192,7 +192,7 @@ let products = [
     "https://images.fravega.com/f300/4714e59e43defdf07a14c86c25109ddd.jpg.webp",
     "https://images.fravega.com/f300/953259f05194123b82c2bb5c58df21a2.jpg.webp"
     ],
-    price: 324999,
+    price: 324,
     brand:'Samsung',
     Moreview: true,
     available: 15,
@@ -218,7 +218,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/00508020-178122-178122-01.png-178122-01.png-size515?context=bWFzdGVyfGltYWdlc3wyNTA2MTl8aW1hZ2UvcG5nfGg3Ni9oOWYvMTA0MDc0Njc3MTI1NDIvMDA1MDgwMjAtMTc4MTIyLTE3ODEyMl8wMS5wbmctMTc4MTIyXzAxLnBuZ19zaXplNTE1fGE4NDQ5NTFjN2Q5MjM2YjljNGQ3MTY5NWE5NTI4M2UzY2ZkZmRhNGJiZTQyMjAxOTJkNjQ2ZjQ2MjQxMzdiODg"
     ],
-    price: 74799,
+    price: 74,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -229,7 +229,7 @@ let products = [
     type: 'SPEAKERS',
     category: 'TV, AUDIO AND VIDEO',
     description:{
-    Text:'ROBUST AND RESISTANT TO WATER IPX7. THIS ALTAVOZ BLUETOOTH PORTÁTIL ACCOUNTS WITH IPX7 CLASSIFICATION WHAT MEANS THAT A TOTAL IMMERSION CAN BE RESISTED IN UNTIL WATER 1 METRO DEEPHUNDITY FOR UNTILE 30 MINUTES. YOU CAN FUN THE PILET OR EVEN IN THE FIGHT WITH THE PILET OR EVEN WITHIN IT. THE INALAMBRIC REACH IS 20 M. 8 HOURS OF REPRODUCTION TIME 2 5 HOURS OF LOADING TIME. THE SOUND IS MAIN INCLUSIVE WHEN MUSIC REPRODUCISES EVERY VOLUME AND A PASSIVE RADIATOR IMPULS THE SERIOUS. YOU GET 8 HOURS OF REPRODUCTION TIME AND A COMPLETE LETTER LAT 2 5 HOURS. THE BLUETOOTH CONNECTION IS STABLE AND THE EMPAREHOUSE IS SIMPLE..',
+    Text:'ROBUST AND RESISTANT TO WATER IPX7. THIS ALTAVOZ BLUETOOTH PORTÁTIL ACCOUNTS WITH IPX7 CLASSIFICATION WHAT MEANS THAT A TOTAL IMMERSION CAN BE RESISTED IN UNTIL WATER 1 METRO DEEPHUNDITY FOR UNTILE 30 MINUTES. YOU CAN FUN THE PILET OR EVEN IN THE FIGHT WITH THE PILET OR EVEN WITHIN IT. THE INALAMBRIC REACH IS 20 M. 8 HOURS OF REPRODUCTION TIME 2 5 HOURS OF LOADING TIME. THE SOUND IS Text INCLUSIVE WHEN MUSIC REPRODUCISES EVERY VOLUME AND A PASSIVE RADIATOR IMPULS THE SERIOUS. YOU GET 8 HOURS OF REPRODUCTION TIME AND A COMPLETE LETTER LAT 2 5 HOURS. THE BLUETOOTH CONNECTION IS STABLE AND THE EMPAREHOUSE IS SIMPLE..',
     EAN: 4895229111011,
     High: 7.8,
     Width: 6.4,
@@ -244,7 +244,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/size515-178913-01.png?context=bWFzdGVyfGltYWdlc3w0MjQ4MTF8aW1hZ2UvcG5nfGgwMS9oZWYvMTA0ODIzNDQzMjkyNDYvc2l6ZTUxNV8xNzg5MTNfMDEucG5nfDk4MWZmZDM3Y2I4NWY0NzE2MTk5OTk0NDExNTAwMjgzYzJmOTMwYWRlMzFmNzViODU5MWNhYWNjMzk2ZmFiYjg"
 ],
-    price: 11539,
+    price: 115,
     brand:'Samsung',
     Moreview: true,
     available: 10,
@@ -270,7 +270,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/size515-176753-01.jpg?context=bWFzdGVyfGltYWdlc3w0ODY5M3xpbWFnZS9qcGVnfGgwMi9oMmQvMTA0NzI2MjQ4ODE2OTQvc2l6ZTUxNV8xNzY3NTNfMDEuanBnfDU1ODVhYTkwMDMwODQ0NGEwODQyZTFkM2ZhNTJhOTBiOGI3Y2EzNzFkOTU4YTYyZGEzZmFjY2MwM2MxOTQyMGY"
     ],
-    price: 31799,
+    price: 317,
     brand:'Samsung',
     Moreview: true,
     available: 2,
@@ -296,7 +296,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/00399070-177108-177108-01.png-177108-01.png-size515?context=bWFzdGVyfGltYWdlc3wxNzE4MjF8aW1hZ2UvcG5nfGg4MS9oM2EvMTAzODE1NjExMzUxMzQvMDAzOTkwNzAtMTc3MTA4LTE3NzEwOF8wMS5wbmctMTc3MTA4XzAxLnBuZ19zaXplNTE1fDE3YzNiYmM2MmE2NTYxZWZmMjkwM2Y2ODNmMzc5MGI4Y2VlYTRjMTgyNWExM2Q5NzI2NmYzY2ExODg5ODVhMWU"
     ],
-    price: 14999,
+    price: 149,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -307,7 +307,7 @@ let products = [
     type: 'HEADPHONES',
     category: 'TV, AUDIO AND VIDEO',
     description:{
-    Text:"IN EAR AURICULAR WITH TECHNOLOGY TWS. MICROFON CONEXION INALAMBRICA. VOLUME CONTROL. VOLUME CONTROL. FREQUENCY RANGE 2.4HZ - 2.4 GHZ. AUTONOMY 3HS OF REPRODUCTION. 2 HS CHARGE TIME. BATTERY REMAIN BASE: LITE 300 MAH. NET MEASURES: 4X2X5 CM. BRUTE MEASURES: 9.9X9.9X3.3CM. WEIGHT NET 108G. WEIGHT 115G.",
+    Text:"IN EAR AURICULAR WITH TECHNOLOGY TWS. MICROFON CONEXION INALAMBRICA. VOLUME CONTROL. VOLUME CONTROL. FREQUENCY RANGE 2.4HZ - 2.4 GHZ. AUTONOMY 3HS OF REPRODUCTION. 2 HS CHARGE TIME. BATTERY REText BASE: LITE 300 MAH. NET MEASURES: 4X2X5 CM. BRUTE MEASURES: 9.9X9.9X3.3CM. WEIGHT NET 108G. WEIGHT 115G.",
     EAN: 7798366201423,
     Color: "PINK",
     Guarantee: 6,
@@ -318,7 +318,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00463001-177533-177533-01.png-177533-01.png-size515?context=bWFzdGVyfGltYWdlc3wxMjQwMDR8aW1hZ2UvcG5nfGgwNS9oMTIvMTAzODE0OTgwODk1MDIvMDA0NjMwMDEtMTc3NTMzLTE3NzUzM18wMS5wbmctMTc3NTMzXzAxLnBuZ19zaXplNTE1fDY1ODMzYWI2YWY2ODY5ZDM5OTRlOGIwNWYyZDI5ZGNjMWYxYzBjMTZjMDEzYjdiMjM2NzQ0ODA0YTE5YzRlMDU"
     ],
-    price: 6999,
+    price: 69,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -343,7 +343,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00210027-174973-174973-01.png-174973-01.png-size515?context=bWFzdGVyfGltYWdlc3w0MzA0NDN8aW1hZ2UvcG5nfGgwNi9oOGUvMTAzMDQ0NzAyNTM1OTgvMDAyMTAwMjctMTc0OTczLTE3NDk3M18wMS5wbmctMTc0OTczXzAxLnBuZ19zaXplNTE1fDhiMWU2YzIzYmZkYWVmNjMzNTZjMzM2ZGY5NzI1ZjJiNDk1MGFmZWNjODU0YTI1ODExMmVjODNhNmEyZThhZDY"
     ],
-    price: 16999,
+    price: 169,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -365,7 +365,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00299076-175886-175886-01.png-175886-01.png-size515?context=bWFzdGVyfGltYWdlc3wzOTM4MjV8aW1hZ2UvcG5nfGg2Zi9oNzYvMTAzMjA4NzkwMjYyMDYvMDAyOTkwNzYtMTc1ODg2LTE3NTg4Nl8wMS5wbmctMTc1ODg2XzAxLnBuZ19zaXplNTE1fDljMzVlNzU0MGUzMmY5YjRlNmJmODM3MmZlNmM2YWE4MDU1NGRhMTc3ZWU4NzIxY2M5OGEzNzE3NjQzNDVlMWY"
     ],
-    price: 5299,
+    price: 52,
     brand:'Samsung',
     Moreview: true,
     available: 20,
@@ -376,7 +376,7 @@ let products = [
     type: 'HEADPHONES',
     category: 'TV, AUDIO AND VIDEO',
     description:{
-    Text:"FEEL AS IF YOU FINISHED STOPPING THE DANCE TRACK. THESE SUPRAURAL AURICULARES GIVE YOU A CLEAR SOUND AND SERIOUS POTENTS. THE ACCOLCHED SUJECTOR BAND MAINTS THE COMFORT AND DISEIVES THEM?YOU IN COLOR KILL YOU ALLOW TO APPROPY THE M?SICA WITH A STYLE.",
+    Text:"FEEL AS IF YOU FINISHED STOPPING THE DANCE TRACK. THESE SUPRAURAL AURICULARES GIVE YOU A CLEAR SOUND AND SERIOUS POTENTS. THE ACCOLCHED SUJECTOR BAND TextTS THE COMFORT AND DISEIVES THEM?YOU IN COLOR KILL YOU ALLOW TO APPROPY THE M?SICA WITH A STYLE.",
     EAN: 4895229109681,
     High: '18.5',
     Width: '16.5',
@@ -391,7 +391,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00307102-176637-176637-01.png-176637-01.png-size515?context=bWFzdGVyfGltYWdlc3w2Nzc5NXxpbWFnZS9wbmd8aGM3L2g4ZS8xMDM3OTc0MTA2OTM0Mi8wMDMwNzEwMi0xNzY2MzctMTc2NjM3XzAxLnBuZy0xNzY2MzdfMDEucG5nX3NpemU1MTV8OTJmYTZkZGQ0OWVlYzYzMTZmN2RhZjAyZjU1MjU1ODE5OGMyODI0MWU4MTRlMTBhZTk5MWQ1ZjY1NzA4MDI5OQ"
     ],
-    price: 12549,
+    price: 125,
     brand:'Samsung',
     Moreview: false,
     available: 20,
@@ -413,7 +413,7 @@ let products = [
     "https://images.fravega.com/f300/7275ccca8883c8c063d85303aec0bd0c.jpg.webp",
     "https://images.fravega.com/f300/8e4a0c3a6bd760a5c6a7b342238e86af.jpg.webp"
     ],
-    price: 829999,
+    price: 829,
     brand:'Samsung',
     Moreview: true,
     available: 15,
@@ -435,7 +435,7 @@ let products = [
     "https://images.fravega.com/f300/f1f64f0b24259c8ed8da569b9b171a94.jpg.webp",
     "https://images.fravega.com/f300/b31cc4293f0b9c401e7fa3cd2f408277.jpg.webp"
     ],
-    price: 799999,
+    price: 799,
     brand:'Samsung',
     Moreview: false,
     available: 5,
@@ -457,7 +457,7 @@ let products = [
     "https://images.fravega.com/f300/561b74d70a37b6f3394b39ef1085df44.jpg.webp",
     "https://images.fravega.com/f300/183a0a288ec9585ad6e3d33b19a18be8.jpg.webp"
     ],
-    price: 269999,
+    price: 269,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -478,7 +478,7 @@ let products = [
     "https://images.fravega.com/f300/a61b9354106bf0727809a80b737989ed.jpg.webp",
     "https://images.fravega.com/f300/1b8055ba2e62c8cd58b4c95e5edafa94.jpg.webp"
     ],
-    price: 264999,
+    price: 264,
     brand:'Samsung',
     Moreview: false,
     available: 3,
@@ -508,7 +508,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_954411-MLA51739377995_092022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_913813-MLA51739471157_092022-O.webp"
     ],
-    price: 109719,
+    price: 109,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -537,7 +537,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_982431-MLU70020195357_062023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_764367-MLU70020195359_062023-O.webp"
     ],
-    price: 6590,
+    price: 650,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -565,7 +565,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_895807-MLU70065262575_062023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_765617-MLU70065322575_062023-O.webp"
     ],
-    price: 118153,
+    price: 118,
     brand:'Samsung',
     Moreview: false,
     available: 4,
@@ -594,7 +594,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_954411-MLA51739377995_092022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_913813-MLA51739471157_092022-O.webp"
     ],
-    price: 102434,
+    price: 102,
     brand:'Samsung',
     Moreview: false,
     available: 10,
@@ -617,7 +617,7 @@ let products = [
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/04.png',
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/05.png'
     ],
-    price: 509999,
+    price: 509,
     brand:'Samsung',
     Moreview: false,
     available: 10,
@@ -640,7 +640,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4-3200 MHz (2 x 4GB)'
     } ,
-    price: 484999,
+    price: 484,
     brand:'Samsung',
     Moreview: true,
     available: 5,
@@ -661,7 +661,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 429999,
+    price: 429,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -682,7 +682,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 519999,
+    price: 519,
     brand:'Samsung',
     Moreview: true,
     available: 2,
@@ -696,14 +696,14 @@ let products = [
      'https://www.alkosto.com/medias/4711081724360-002-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wzNjc2NTl8aW1hZ2UvanBlZ3xhVzFoWjJWekwyZzRZUzlvTUdVdk1USTBNRFU1TVRRek16Y3pNVEF1YW5CbnwzOGExYTI5ZDkyZWExOWEzMzIxNDhiYzhkMzc5YzBlZjMyYmQzNzExMjFkNjgzNDFmNTE1ZDI5N2VhZDI5Yzlj','https://www.alkosto.com/medias/4711081724360-005-1400Wx1400H?context=bWFzdGVyfGltYWdlc3w2NjQwNnxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJnNU5DOW9aVEV2TVRJME1EVTVNVEkxTmpjNE16Z3VhbkJufDE0MTI5YWU4NTY1NTMxNzRlNTEyZWZiOTAwYjQwZTI4NzBiMWZmZDJmZTc0OTA3MGFlNjM4ZjE4YWQ0YWE3OGU','https://www.alkosto.com/medias/4711081724360-004-1400Wx1400H?context=bWFzdGVyfGltYWdlc3wyODU0ODh8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaG1PQzlvTnpFdk1USTBNRFU1TVRVMU1UWTVOVGd1YW5Cbnw2MDY0ODU2MTQ0NDAxM2JiMDY5YTM1OTU5YWM2YmQ1Y2I0MTg1YzgxODkzZjMwOTdmMGViYTRjZjUxNDlhZDlh'
     ],
     description:{
-        Text:'With the black ASUS TUF Dash F15 enjoy an advanced gaming experience in a super slim chassis. It has an Intel Core i5 CPU, GeForce RTX 3050 GPU and a 144 Hz screen with excellent graphic fluidity. Its TUF MIL-STD chassis is built to withstand everyday knocks. Its battery of up to 16.6 hours allows you to do more tasks. The two speakers with four cutouts produce loud and immersive audio. In addition, its anti-dust system, n-Blade fans, heatsinks remove heat from the main components and dissipate it so that they work at full capacity. Take it now!',
+        Text:'With the black ASUS TUF Dash F15 enjoy an advanced gaming experience in a super slim chassis. It has an Intel Core i5 CPU, GeForce RTX 3050 GPU and a 144 Hz screen with excellent graphic fluidity. Its TUF MIL-STD chassis is built to withstand everyday knocks. Its battery of up to 16.6 hours allows you to do more tasks. The two speakers with four cutouts produce loud and immersive audio. In addition, its anti-dust system, n-Blade fans, heatsinks remove heat from the Text components and dissipate it so that they work at full capacity. Take it now!',
         Screen:'FHD 15.6" 144Hz',
         Processor:'Intel Core i5-12450H',
         OperatingSystem:'Windows 11 ',
         Storage:'512GB SSD',
         Ram:'16GB DDR4'
     } ,
-    price: 1149999,
+    price: 1149,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -723,7 +723,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 349999,
+    price: 3499,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -743,7 +743,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 929999,
+    price: 9299,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -763,7 +763,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 359999,
+    price: 3599,
     brand:'Samsung',
     Moreview: false,
     available: 9,
@@ -783,7 +783,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 1759999,
+    price: 1759,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -803,7 +803,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB'
     } ,
-    price: 3059999,
+    price: 3059,
     brand:'Samsung',
     Moreview: false,
     available: 26,
@@ -823,7 +823,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 494999,
+    price: 4949,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -843,7 +843,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB'
     } ,
-    price: 764999,
+    price: 764,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -863,7 +863,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 489999,
+    price: 489,
     brand:'Samsung',
     Moreview: true,
     available: 6,
@@ -883,7 +883,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 414999,
+    price: 414,
     brand:'Samsung',
     Moreview: false,
     available: 1,
@@ -903,7 +903,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB'
     } ,
-    price: 1054999,
+    price: 1054,
     brand:'Samsung',
     Moreview: false,
     available: 18,
@@ -923,7 +923,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB'
     } ,
-    price: 2179999,
+    price: 217,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -943,7 +943,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB'
     } ,
-    price: 2114999,
+    price: 211,
     brand:'Samsung',
     Moreview: false,
     available: 4,
@@ -963,7 +963,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 749999,
+    price: 749,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -983,7 +983,7 @@ let products = [
         Storage:'1TB SSD',
         Ram:'16GB'
     } ,
-    price: 1059999,
+    price: 105,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -1003,7 +1003,7 @@ let products = [
         Storage:'1TB SSD',
         Ram:'16GB'
     } ,
-    price: 4489999,
+    price: 4489,
     brand:'Samsung',
     Moreview: false,
     available: 16,
@@ -1034,7 +1034,7 @@ let products = [
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a235mzkearo/gallery/ar-galaxy-a23-sm-a235-sm-a235mzkearo-532206858?$684_547_PNG$",
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a235mzkearo/gallery/ar-galaxy-a23-sm-a235-sm-a235mzkearo-532206859?$684_547_PNG$"
 ],
-    price: 279999,
+    price: 279,
     brand:'Samsung',
     Moreview: false,
     available: 4,
@@ -1065,7 +1065,7 @@ let products = [
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a235mzkearo/gallery/ar-galaxy-a23-sm-a235-sm-a235mzkearo-532206858?$684_547_PNG$",
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a045mzgearo/gallery/ar-galaxy-a04-sm-a045-sm-a045mzgearo-534153827?$684_547_PNG$"
 ],
-    price: 169999,
+    price: 169,
     brand:'Samsung',
     Moreview: false,
     available: 3,
@@ -1096,7 +1096,7 @@ let products = [
     "https://m.media-amazon.com/images/I/41qPcTaKIwL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/51bpy9qzM9L._AC_SX679_.jpg"
 ],
-    price: 329999 ,
+    price: 329 ,
     brand:'Samsung',
     Moreview: true,
     available: 16,
@@ -1127,7 +1127,7 @@ let products = [
     "https://m.media-amazon.com/images/I/61XZl0Wi7hL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/61Jv7HNgcnL._AC_SX679_.jpg"
 ],
-    price: 649999,
+    price: 649,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -1158,7 +1158,7 @@ let products = [
     "https://m.media-amazon.com/images/I/61Zw97IYF2L._AC_SY879_.jpg",
     "https://m.media-amazon.com/images/I/41CYpzvgDFL._AC_SY879_.jpg"
 ],
-    price: 844999,
+    price: 849,
     brand:'Samsung',
     Moreview: true,
     available: 3,
@@ -1189,7 +1189,7 @@ let products = [
     "https://m.media-amazon.com/images/I/61jqaN-jq7L._AC_SX466_.jpg",
     "https://m.media-amazon.com/images/I/71tkKd28TfL._AC_SX466_.jpg"
 ],
-    price: 99999 ,
+    price: 99 ,
     brand:'Samsung',
     Moreview: false,
     available: 16,
@@ -1220,7 +1220,7 @@ let products = [
     "https://m.media-amazon.com/images/I/41cBBax9BkS._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/714B1PaGorL._AC_SX679_.jpg"
 ],
-    price: 649999,
+    price: 649,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -1251,7 +1251,7 @@ let products = [
     "https://m.media-amazon.com/images/I/61sDyXAepuL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/7161nwSVX9L._AC_SX679_.jpg"
 ],
-    price: 1399999,
+    price: 1399,
     brand:'Samsung',
     Moreview: true,
     available: 4,
@@ -1282,7 +1282,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_924351-MLM51559388197_092022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_908818-MLM51559388192_092022-O.webp"
 ],
-    price: 899999,
+    price: 899,
     brand:'Samsung',
     Moreview: true,
     available: 1,
@@ -1312,7 +1312,7 @@ let products = [
     "https://m.media-amazon.com/images/I/41UNlRcdiaL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/51bXZXdQlgL._AC_SX679_.jpg"
 ],
-    price: 499999,
+    price: 499,
     brand:'Samsung',
     Moreview: false,
     available: 6,
@@ -1323,7 +1323,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Professional photography in your pocket Discover endless possibilities for your photos with the 4 main cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results.",
+    Text:["Professional photography in your pocket Discover endless possibilities for your photos with the 4 Text cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results.",
     "Amazing viewing experience Watch your favorite series and movies in the best definition through its 6.43 inch AMOLED screen.Enjoy brilliant colors and precise details in all your content.",
     "Higher performance Its 4 GB RAM memory allows your smartphone to work smoothly and without delays when performing different tasks, playing games or browsing",
     "Superior battery life Unplug! With the 5000 mAh super battery you will have energy for much longer to play, watch series or work without the need to recharge."
@@ -1343,7 +1343,7 @@ let products = [
     "https://m.media-amazon.com/images/I/41F0O3dOn+L._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/413Eb+YF-UL._AC_SX679_.jpg"
 ],
-    price: 179999,
+    price: 179,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -1354,7 +1354,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Professional photography in your pocket Discover endless possibilities for your photos with the 3 main cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results.",
+    Text:["Professional photography in your pocket Discover endless possibilities for your photos with the 3 Text cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results.",
     "Incredible visual experience Watch your favorite series and movies in the best definition through its 6.67 inch AMOLED screen. Enjoy brilliant colors and precise details in all your content.",
     "capacity and efficiency With its powerful processor and 8 GB RAM, your device will achieve high performance with high speed content transmission and will run multiple applications at the same time without delays.",
     "Superior battery life Unplug! With the 4500 mAh super battery you will have energy for much longer to play, watch series or work without the need to recharge."
@@ -1374,7 +1374,7 @@ let products = [
     "https://m.media-amazon.com/images/I/519RSDhDQPL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/41wl4buY7ML._AC_SX679_.jpg"
 ],
-    price: 399999,
+    price: 399,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -1406,7 +1406,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_975447-MLA52231136906_112022-O.webp",
     
 ],
-    price: 229999,
+    price: 229,
     brand:'Samsung',
     Moreview: false,
     available: 16,
@@ -1437,7 +1437,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_854451-MLA53362598656_012023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_935715-MLA53362587943_012023-O.webp"
 ],
-    price: 249999,
+    price: 249,
     brand:'Samsung',
     Moreview: true,
     available: 5,
@@ -1467,7 +1467,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_781852-MLU69482229834_052023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_785045-MLU69762392813_062023-O.webp"
 ],
-    price: 219999,
+    price: 219,
     brand:'Samsung',
     Moreview: false,
     available: 16,
@@ -1496,7 +1496,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_874989-MLU69494751787_052023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_752447-MLU69482273876_052023-O.webp"
 ],
-    price: 431999,
+    price: 431,
     brand:'Samsung',
     Moreview: false,
     available: 5,
@@ -1524,7 +1524,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_981611-MLA52222798940_102022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_883535-MLA52222798941_102022-O.webp"
 ],
-    price: 519999,
+    price: 519,
     brand:'Samsung',
     Moreview: false,
     available: 11,
@@ -1552,7 +1552,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_944048-MLA52622269475_112022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_992503-MLA52178284465_102022-O.webp"
 ],
-    price: 449999,
+    price: 449,
     brand:'Samsung',
     Moreview: true,
     available: 13,
@@ -1582,7 +1582,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_648185-MLU69494750753_052023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_669544-MLU69494909745_052023-O.webp"
 ],
-    price: 209999,
+    price: 209,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -1612,11 +1612,306 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_993286-MLA52579644086_112022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_857769-MLA52579644081_112022-O.webp"
 ],
-    price: 207999,
+    price: 207,
     brand:'Samsung',
     Moreview: true,
     available: 5,
-},
+},{
+    title: "PC Core i3-10100F E670 8|256|19|GT210",
+    cover_photo: ["https://i.ibb.co/yNCqyyz/Pc-i3.png"],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Antryx elegant 670",
+            monitor: `19" Samsung LS19A330NHLXPE HD HDMi/VGA`,
+            processor: "Intel Core i3-10100F",
+            motherboard: "Gigabite H510M H VSR LGA1200 mATX",
+            graphics_card: "Nvidia Geforce GT 210 1GB MSI 64-bit GDDR3",
+            peripherals: "Keyboard + Mouse Logitech MK120 USB",
+            power_supply: "350W Power",
+            storage: "SSD de 256GB",
+            ram: "8GB de RAM",
+            stabilizer: "900VA Forza FVR-902 8-Tomas",
+        },
+    },
+    price: 350,
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
+}, {
+    title: "PC Core i5-10400F MX360 16|500|21.5|1660",
+    cover_photo: ["https://i.ibb.co/1Xtyg2x/Pc-i5.png"],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Cougar MX360 RGB",
+            monitor: `Asus VP228HE 21.5" FHD HDMi/VGA`,
+            processor: "Intel Core i5-10400F",
+            motherboard: "MSI B560M-PRO-E",
+            graphics_card: "Geforce GTX 1660 6GB",
+            peripherals: "Keyboard + Mouse MSI Adventure USB",
+            storage: "SSD M.2 PCLE 500GB",
+            ram: "DDR4 16GB 3200MHZ de RAM",
+            power_supply: "550W 80Plus Bronze",
+            stabilizer: "900VA Forza FVR-902 8-Tomas",
+        },
+    },
+    price: 480,
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: false,
+}, {
+    title: "PC Core i7-11700F CMP320 16|1|24|3060",
+    cover_photo: ["https://i.ibb.co/KWmJn4W/Pc-i7.png"],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Cooler Master CMP 320",
+            monitor: `LG 24" 24Gn60R-B FHD HDMi/VGA`,
+            processor: "Intel Core i7-11700F",
+            motherboard: "Gigabyte Z590I Aorus Ultra",
+            graphics_card: "Geforce RTX 3060 8GB",
+            peripherals: "Keyboard + Mouse Cooler Master MS111",
+            storage: "SSD M.2 PCLE 1TB",
+            ram: "DDR4 16GB 3200MHZ de RAM",
+            power_supply: "550W 80Plus Bronze",
+            stabilizer: "1000VA Forza FVR-1002 8-Tomas",
+        },
+    },
+    price: 800,
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
+}, {
+    title: "PC Core i9-11900KF AC300G 16|1|27|3070",
+    cover_photo: ["https://i.ibb.co/r41FVnX/Pc-i9.png"],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Gigabyte Aorus AC300G",
+            monitor: `G27QC 2K 27" QHB CURVO HDMi/VGA`,
+            processor: "Intel Core i9-11900KF",
+            motherboard: "Gigabyte Z590 Aorus Ultra",
+            graphics_card: "Geforce RTX3070 8GB",
+            peripherals: "Keyboard + Mouse Corsair K55 RGB ",
+            storage: "SSD M.2 PCLE 1TB",
+            ram: "DDR4 16GB 3200MHZ de RAM",
+            power_supply: "650W 80Plus Glod",
+            stabilizer: "1000VA Forza FVR-1002 8-Tomas",
+        },
+    },
+    price: 1300,
+    available: 4,
+    brand: "Intel",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
+}, {
+    title: "PC Ryzen 3 4100 GEMINE M 16|500|24|1630",
+    cover_photo: [
+        "https://i.ibb.co/qCTd3Nm/Pc-R3.png"
+    ],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Cougar Gemini M",
+            monitor: `Samsung C360 FHD Curvo HDMi/VGA`,
+            processor: "AMD Ryzen 3 4100",
+            motherboard: "MSI A520M-A PRO",
+            graphics_card: "Geforce GTX1630 4GB",
+            peripherals: "Keyboard + Mouse Genius GX USB",
+            storage: "SSD M.2 PCLE 500TB",
+            ram: "DDR4 16GB 3200MHZ de RAM",
+            power_supply: "550W Certificado",
+            stabilizer: "900VA Forza FVR-1002 8-Tomas",
+        },
+    },
+    price: 300,
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
+}, {
+    title: "PC Ryzen 5 3600 MK RINO DESTROYER 16|500|22|1650",
+    cover_photo: [
+        "https://i.ibb.co/s5y4rkk/Pc-R5.png"
+    ],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Destroyer MESH",
+            monitor: `Samsung LS22A336 22" FHD HDMi/VGA`,
+            processor: "AMD Ryzen 5 3600",
+            motherboard: "ASUS Prime A520M-a II",
+            graphics_card: "Geforce GTX 1650 4GB",
+            peripherals: "Keyboard + Mouse Gaming Antryx GC-2500 USB",
+            storage: "SSD M.2 PCLE 500TB",
+            ram: "DDR4 16GB de RAM",
+            power_supply: "500W Certificado",
+            stabilizer: "1000VA Forza FVR-1002 8-Tomas",
+        },
+    },
+    price: 700,
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: false,
+}, {
+    title: "PC WS Ryzen 7 5800X B600L 32|1|26|W6400",
+    cover_photo: [
+        "https://i.ibb.co/686jpx6/Pc-R7.png"
+    ],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "Case BOX MB600L V2",
+            monitor: `LG 26" FHD HDMi/VGA`,
+            processor: "AMD Ryzen 7 5800X 3.8GHZ/32MB 8C AM4",
+            motherboard: "ASUS ROG STRIX B550-A",
+            graphics_card: "AMD Radeon Pro W6400 4Gb GDDR6",
+            peripherals: "Keyboard + Mouse Logitech MK345 USB",
+            storage: "SSD M.2 PCLE 1TB",
+            ram: "DDR4 32GB de RAM",
+            power_supply: "550W 80Plus Bronze",
+            stabilizer: "1000VA Forza FVR-1002 8-Tomas",
+        },
+    },
+    price: 950,
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: true,
+}, {
+    title: "PC Ryzen 9 5900X  MK RINO G111R 32|S1T|27|3080Ti",
+    cover_photo: [
+        "https://i.ibb.co/nr3nDy7/Pc-R9.png"
+    ],
+    description: {
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        features: {
+            case: "MSI MPG Gungnir 111R",
+            monitor: `MSI OPTIX MAG270VC2  27" FHD HDMi/VGA`,
+            processor: "AMD Ryzen 9 5900x",
+            motherboard: "MSI MPG B550 Gaming Plus",
+            graphics_card: "Geforce RTX 3080 Ti 12GB",
+            peripherals: "Keyboard + Mouse Gaming MSI Clutch GM08 USB",
+            storage: "SSD M.2 PCLE 1TB",
+            ram: "DDR4 32GB 3200 DUAL",
+            power_supply: "850W 80Plus Glod",
+            stabilizer: "1000VA Forza FVR-1002 8-Tomas",
+        },
+    },
+    price: 1500,
+    available: 4,
+    brand: "Ryzen",
+    category: "gamers",
+    type: "pc",
+    Moreview: false,
+}, {
+    title: "Silla Gamer QTE GC03 Purple",
+    cover_photo: [
+        "https://i.ibb.co/82tjxYX/sillas-game-purple.webp",
+        "https://i.ibb.co/jLQSYz2/sillas-game-purple2.webp",
+        "https://i.ibb.co/vkPkZ3G/sillas-game-purple3.webp"
+    ],
+    description: {
+        Text: `Removable upper pads. 5-star chrome steel base with wheels. raised armrests. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon`
+    },
+    price: 80,
+    available: 4,
+    brand: "QTE",
+    category: "gamers",
+    type: "Chair",
+    Moreview: false,
+}, {
+    title: "Gamer chair with massager",
+    cover_photo: [
+        "https://i.ibb.co/Y00pfX4/gamer-masajeador2.png",
+        "https://i.ibb.co/86MLqWt/gamer-masajeador.png",
+        "https://i.ibb.co/VL3fHSm/gamer-masageador-descripcion.jpg"
+    ],
+    description: {
+        Text: `Removable upper and lower pads with usb massager. 5-star chrome steel base with wheels. Adjustable height and raised armrests. Tilt lock mechanism 90-150 degrees. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon.`,
+    }, 
+    price: 140,
+    available: 4,
+    brand: "Claudia M",
+    category: "gamers",
+    type: "Chair",
+    Moreview: false,
+}, {
+    title: "Ergonomic Reclining Gamer Chair Constrictor Monensis SIC-2001",
+    cover_photo: [
+        "https://i.ibb.co/s2krXJk/silla-verde.webp",
+        "https://i.ibb.co/WHGwYfX/silla-verde2.webp",
+        "https://i.ibb.co/JjMfsCy/silla-verde3.webp"
+    ],
+    description: {
+        Text:`Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+    },
+    price: 130,
+    available: 4,
+    brand: "Constrictor",
+    category: "gamers",
+    type: "Chair",
+    Moreview: true,
+}, {
+    title: "Apollo gaming chair",
+    cover_photo: [
+        "https://i.ibb.co/2dMQhCv/silla-polo.jpg",
+        "https://i.ibb.co/1bKr8Fq/silla-polo3.webp",
+        "https://i.ibb.co/NY7vCHp/silla-polo2.jpg"
+    ],
+    description: {
+        Text:`Removable upper and lower pads. 5-star chrome steel base with wheels. raised armrests, footrest, reclines 90°, height adjustment. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish.`,
+    },
+    price: 140,
+    available: 4,
+    brand: "Apolo",
+    category: "gamers",
+    type: "Chair",
+    Moreview: true,
+}, {
+    title: "MOUSE Gaming BT|Wireless RAZER NAGA PRO RGB 20K",
+    cover_photo: [
+        "https://i.ibb.co/VCDTvm3/maose-pro.jpg",
+        "https://i.ibb.co/wzGBpxk/maose-pro2.jpg"
+    ],
+    description: {
+        Text: `This wireless modular gaming mouse comes with 3 types of magnetically snap-on side plates: 12-, 6-, and 2-button layouts specially designed to help you adapt to different gaming genres. Optimize your game with these recommended button configurations for each side plate.`,
+    },
+    price: 80,
+    available: 4,
+    brand: "Razer",
+    category: "gamers",
+    type: "Mouse",
+    Moreview: true,
+}, {
+    title: "MOUSE BT|Wireless LOGITECH MX ERGO TRACKBALL",
+    cover_photo: [
+        "https://i.ibb.co/gvFRjF7/mx.jpg",
+        "https://i.ibb.co/KNqqmJG/mx2.jpg",
+        "https://i.ibb.co/18wWkqR/mx3.jpg"
+    ],
+    description: {
+        Text:`Logitech's most advanced trackball for loyal enthusiasts and users looking for alternatives to mice and touchpads. It requires 20% less muscular effort than a standard mouse.`,
+    },
+    price: 120,
+    available: 4,
+    brand: "Logitech",
+    category: "gamers",
+    type: "Mouse",
+    Moreview: false,
+}
 ]
 
 Products.insertMany(products)
