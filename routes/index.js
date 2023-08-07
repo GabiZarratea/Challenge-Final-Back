@@ -12,7 +12,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.use('/audiovideo', audioVideo_router)
-router.use('/product', products_router)
+router.use('/products', products_router)
 router.use('/phoneTabs' , phoneTabs_router)
 router.use('/gamers', gamers_router)
 
