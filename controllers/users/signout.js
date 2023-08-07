@@ -1,17 +1,17 @@
-import User from '../../models/User.js'
+import User from "../../models/User.js";
 
 export default async (req, res, next) => {
     try {
-        const one = await User.findOne({email:req.body.email});
-
-        return res.status(201).json({
-            response: one,
+        let one = await User.findOneAndUpdate(
+            { email:req.user.email },
+            { online:false },
+            { new:true }
+        )
+        return res.status(200).json({
             success: true,
-            message: 'User created'
+            message: 'user id'+one._id+' disconnected'
         })
     } catch (error) {
-
-        console.log(error) //consologueo el error
-        next(error)
-        }
+        return next(error)
     }
+}
