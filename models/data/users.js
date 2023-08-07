@@ -5,6 +5,7 @@ import '../../config/db.js'
 let users = [{
     email: "gutavo@ccgi.com",
     password: "$2a$10$XZBDuOYHcHSzZNzf2ws7Quvu3YmKgSagWRUG1eGlBLSdxJunpN1LC",
+    location: "Argentina",
     role: 1,
     verified: true,
     verify_code: "acvnewi92emodsqisj129mxskal2121wsaz",
@@ -13,6 +14,7 @@ let users = [{
 },{
     email: "carlos@ccgi.com",
     password: "$2a$10$XZBDuOYHcHSzZNzf2ws7Quvu3YmKgSagWRUG1eGlBLSdxJunpN1LC",
+    location: "Colombia",
     role: 1,
     verified: true,
     verify_code: "acvnewi92emodsqisj129mxskal2121wsaz",
@@ -21,6 +23,7 @@ let users = [{
 },{
     email: "ivan@ccgi.com",
     password: "$2a$10$XZBDuOYHcHSzZNzf2ws7Quvu3YmKgSagWRUG1eGlBLSdxJunpN1LC",
+    location: "Argentina",
     role: 1,
     verified: true,
     verify_code: "acvnewi92emodsqisj129mxskal2121wsaz",
@@ -29,6 +32,7 @@ let users = [{
 },{
     email: "gabi@ccgi.com",
     password: "$2a$10$XZBDuOYHcHSzZNzf2ws7Quvu3YmKgSagWRUG1eGlBLSdxJunpN1LC",
+    location: "Argentina",
     role: 1,
     verified: true,
     verify_code: "acvnewi92emodsqisj129mxskal2121wsaz",
