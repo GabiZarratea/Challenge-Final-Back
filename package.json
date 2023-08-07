@@ -11,7 +11,8 @@
     "phoneTabs":"node ./models/data/PhoneTabs.js",
     "audiovideos":"node ./models/data/audiovideos.js",
     "data": "node ./models/data/data.js",
-    "gamers": "node ./models/data/gamers.js" 
+    "gamers": "node ./models/data/gamers.js",
+    "products": "node ./models/data/products.js"
   },
   "dependencies": {
     "chai": "^4.3.7",
