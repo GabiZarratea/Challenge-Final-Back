@@ -8,12 +8,13 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "users": "node ./models/data/users.js",
-    "phoneTabs":"node ./models/data/PhoneTabs.js",
-    "audiovideos":"node ./models/data/audiovideos.js",
+    "phoneTabs": "node ./models/data/PhoneTabs.js",
+    "audiovideos": "node ./models/data/audiovideos.js",
     "data": "node ./models/data/data.js",
-    "gamers": "node ./models/data/gamers.js" 
+    "gamers": "node ./models/data/gamers.js"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "chai": "^4.3.7",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",

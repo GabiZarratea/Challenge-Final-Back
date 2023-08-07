@@ -1,6 +1,6 @@
 import joi from 'joi';
 
-const user_Signin = join.object({
+const userSignin = joi.object({
     email: joi.string()
     .required()
     .email({
@@ -14,7 +14,7 @@ const user_Signin = join.object({
     }),
     password: joi.string()
     .required()
-    .min(8)
+    .min(6)
     .max(20)
     .alphanum()
     .message({
@@ -26,4 +26,4 @@ const user_Signin = join.object({
     })
 })
 
-export default user_Signin;
+export default userSignin;
