@@ -1,10 +1,12 @@
-import Router from "express";
+import { Router } from "express";
 import signin from "../controllers/users/signin.js";
 import register from "../controllers/users/register.js";
+import read from "../controllers/users/read.js";
 
-let auth_router = Router();
+const user_router = Router();
 
-auth_router.post("/signin", signin);
-auth_router.post('/register', register);
+user_router.post("/signin", signin);
+user_router.post('/register', register);
+user_router.get('/', read);
 
-export default auth_router;
+export default user_router;

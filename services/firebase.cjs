@@ -42,32 +42,32 @@ const uploadImage = (req, res, next) => {
     stream.end(imagen.buffer);
 }
 
-const uploadImageCoverFhoto = (req, res, next) => {
-    if (!req.file) return next();
-    const imagen = req.file
-    const folderName = "cover_photo";
-    const nameImagen = folderName + "/" + Date.now() + "." + imagen.originalname.split('.').pop();
+// const uploadImageCoverFhoto = (req, res, next) => {
+//     if (!req.file) return next();
+//     const imagen = req.file
+//     const folderName = "cover_photo";
+//     const nameImagen = folderName + "/" + Date.now() + "." + imagen.originalname.split('.').pop();
 
-    const file = bucket.file(nameImagen);
+//     const file = bucket.file(nameImagen);
 
-    const stream = file.createWriteStream({
-        metadata: {
-            contentType: imagen.mimetype,
-        }
-    })
+//     const stream = file.createWriteStream({
+//         metadata: {
+//             contentType: imagen.mimetype,
+//         }
+//     })
 
-    stream.on("error", (e) => {
-        console.error(e);
-    });
+//     stream.on("error", (e) => {
+//         console.error(e);
+//     });
 
-    stream.on("finish", async () => {
-        await file.makePublic();
+//     stream.on("finish", async () => {
+//         await file.makePublic();
 
-        req.file.firebaseUrl = `https://storage.googleapis.com/${BUCKET}/${nameImagen}`;
+//         req.file.firebaseUrl = `https://storage.googleapis.com/${BUCKET}/${nameImagen}`;
 
-        next();
-    });
+//         next();
+//     });
 
-    stream.end(imagen.buffer);
-}
+//     stream.end(imagen.buffer);
+// }
 module.exports = {uploadImage, uploadImageCoverFhoto};
