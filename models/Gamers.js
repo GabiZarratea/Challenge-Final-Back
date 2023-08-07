@@ -5,8 +5,8 @@ let collection = 'gamers'
 let schema = new Schema(
     {
         title: { type: String, required: true },
-        description: { 
-            main: { type: String, required: true },
+        description: {
+            main: { type: String },
             features: {
                 case: String,
                 monitor: String,
@@ -20,16 +20,20 @@ let schema = new Schema(
                 stabilizer: String,
             },
         },
-        price: { type: String, required: true },
-        verified: { type: String, required: true },
-        verify_code: { type: String, required: true },
-        available: { type: String, required: true },
-        cover_photo: { type: String, required: true },
+        cover_photo: { type: [String], required: true },
+        price: { type: Number, required: true },
+        brand: { type: String, required: true },
+        category: { type: String, required: true },
+        type: { type: String, required: true },
+        verified: { type: Boolean },
+        verify_code: { type: String },
+        available: { type: Number },
+        Moreview: { type: Boolean },
     },
     {
         timestamps: true,
     }
-)
+);
 
 let Gamers = model(collection, schema)
 export default Gamers
