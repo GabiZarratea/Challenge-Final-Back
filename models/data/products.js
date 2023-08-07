@@ -1032,7 +1032,7 @@ let products = [
 ],
     price: 279,
     brand:'Samsung',
-    Moreview: false,
+    Moreview: true,
     available: 4,
 },
 {
@@ -1061,7 +1061,7 @@ let products = [
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a235mzkearo/gallery/ar-galaxy-a23-sm-a235-sm-a235mzkearo-532206858?$684_547_PNG$",
     "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a045mzgearo/gallery/ar-galaxy-a04-sm-a045-sm-a045mzgearo-534153827?$684_547_PNG$"
 ],
-    price: 169,
+    price: 170,
     brand:'Samsung',
     Moreview: false,
     available: 3,
@@ -1088,7 +1088,7 @@ let products = [
     "https://m.media-amazon.com/images/I/41qPcTaKIwL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/51bpy9qzM9L._AC_SX679_.jpg"
 ],
-    price: 329 ,
+    price:330 ,
     brand:'Samsung',
     Moreview: true,
     available: 16,
@@ -1115,9 +1115,9 @@ let products = [
     "https://m.media-amazon.com/images/I/61XZl0Wi7hL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/61Jv7HNgcnL._AC_SX679_.jpg"
 ],
-    price: 649,
+    price:  650,
     brand:'Samsung',
-    Moreview: false,
+    Moreview: true,
     available: 2,
 },
 {
@@ -1142,9 +1142,9 @@ let products = [
     "https://m.media-amazon.com/images/I/61Zw97IYF2L._AC_SY879_.jpg",
     "https://m.media-amazon.com/images/I/41CYpzvgDFL._AC_SY879_.jpg"
 ],
-    price: 844,
+    price: 845,
     brand:'Samsung',
-    Moreview: true,
+    Moreview: false,
     available: 3,
 },
 {
@@ -1169,9 +1169,9 @@ let products = [
     "https://m.media-amazon.com/images/I/61jqaN-jq7L._AC_SX466_.jpg",
     "https://m.media-amazon.com/images/I/71tkKd28TfL._AC_SX466_.jpg"
 ],
-    price: 99,
+    price: 999 ,
     brand:'Samsung',
-    Moreview: false,
+    Moreview: true,
     available: 16,
 },
 {
@@ -1250,9 +1250,9 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_924351-MLM51559388197_092022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_908818-MLM51559388192_092022-O.webp"
 ],
-    price: 899,
+    price: 900,
     brand:'Samsung',
-    Moreview: true,
+    Moreview: false,
     available: 1,
 },
 {
@@ -1277,9 +1277,9 @@ let products = [
     "https://m.media-amazon.com/images/I/41UNlRcdiaL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/51bXZXdQlgL._AC_SX679_.jpg"
 ],
-    price: 499,
+    price: 500,
     brand:'Samsung',
-    Moreview: false,
+    Moreview: true,
     available: 6,
 },
 {
@@ -1304,9 +1304,9 @@ let products = [
     "https://m.media-amazon.com/images/I/41F0O3dOn+L._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/413Eb+YF-UL._AC_SX679_.jpg"
 ],
-    price: 179,
+    price: 180,
     brand:'Samsung',
-    Moreview: true,
+    Moreview: false,
     available: 12,
 },
 {
@@ -1331,9 +1331,9 @@ let products = [
     "https://m.media-amazon.com/images/I/519RSDhDQPL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/41wl4buY7ML._AC_SX679_.jpg"
 ],
-    price: 399,
+    price: 400,
     brand:'Samsung',
-    Moreview: true,
+    Moreview: false,
     available: 12,
 },
 {
@@ -1359,9 +1359,9 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_975447-MLA52231136906_112022-O.webp",
     
 ],
-    price: 229,
+    price: 230,
     brand:'Samsung',
-    Moreview: false,
+    Moreview: true,
     available: 16,
 },
 {
@@ -1386,7 +1386,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_854451-MLA53362598656_012023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_935715-MLA53362587943_012023-O.webp"
 ],
-    price: 249,
+    price: 250,
     brand:'Samsung',
     Moreview: true,
     available: 5,
@@ -1413,7 +1413,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_781852-MLU69482229834_052023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_785045-MLU69762392813_062023-O.webp"
 ],
-    price: 219,
+    price: 200,
     brand:'Samsung',
     Moreview: false,
     available: 16,
@@ -1467,9 +1467,9 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_981611-MLA52222798940_102022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_883535-MLA52222798941_102022-O.webp"
 ],
-    price: 519,
+    price: 520,
     brand:'Samsung',
-    Moreview: false,
+    Moreview: true,
     available: 11,
 },
 {
@@ -1494,7 +1494,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_944048-MLA52622269475_112022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_992503-MLA52178284465_102022-O.webp"
 ],
-    price: 449,
+    price: 450,
     brand:'Samsung',
     Moreview: true,
     available: 13,
@@ -1521,7 +1521,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_648185-MLU69494750753_052023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_669544-MLU69494909745_052023-O.webp"
 ],
-    price: 209,
+    price: 210,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -1548,7 +1548,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_993286-MLA52579644086_112022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_857769-MLA52579644081_112022-O.webp"
 ],
-    price: 207,
+    price: 20,
     brand:'Samsung',
     Moreview: true,
     available: 5,
@@ -2017,7 +2017,7 @@ oven:"YES"
     title: "PC Core i3-10100F E670 8|256|19|GT210",
     cover_photo: ["https://i.ibb.co/yNCqyyz/Pc-i3.png"],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Antryx elegant 670",
             monitor: `19" Samsung LS19A330NHLXPE HD HDMi/VGA`,
@@ -2043,7 +2043,7 @@ oven:"YES"
     title: "PC Core i5-10400F MX360 16|500|21.5|1660",
     cover_photo: ["https://i.ibb.co/1Xtyg2x/Pc-i5.png"],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Cougar MX360 RGB",
             monitor: `Asus VP228HE 21.5" FHD HDMi/VGA`,
@@ -2069,7 +2069,7 @@ oven:"YES"
     title: "PC Core i7-11700F CMP320 16|1|24|3060",
     cover_photo: ["https://i.ibb.co/KWmJn4W/Pc-i7.png"],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Cooler Master CMP 320",
             monitor: `LG 24" 24Gn60R-B FHD HDMi/VGA`,
@@ -2095,7 +2095,8 @@ oven:"YES"
     title: "PC Core i9-11900KF AC300G 16|1|27|3070",
     cover_photo: ["https://i.ibb.co/r41FVnX/Pc-i9.png"],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
         features: {
             case: "Gigabyte Aorus AC300G",
             monitor: `G27QC 2K 27" QHB CURVO HDMi/VGA`,
@@ -2123,7 +2124,8 @@ oven:"YES"
         "https://i.ibb.co/qCTd3Nm/Pc-R3.png"
     ],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
         features: {
             case: "Cougar Gemini M",
             monitor: `Samsung C360 FHD Curvo HDMi/VGA`,
@@ -2151,7 +2153,7 @@ oven:"YES"
         "https://i.ibb.co/s5y4rkk/Pc-R5.png"
     ],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Destroyer MESH",
             monitor: `Samsung LS22A336 22" FHD HDMi/VGA`,
@@ -2179,7 +2181,8 @@ oven:"YES"
         "https://i.ibb.co/686jpx6/Pc-R7.png"
     ],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Case BOX MB600L V2",
             monitor: `LG 26" FHD HDMi/VGA`,
@@ -2207,7 +2210,9 @@ oven:"YES"
         "https://i.ibb.co/nr3nDy7/Pc-R9.png"
     ],
     description: {
-        main: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
         features: {
             case: "MSI MPG Gungnir 111R",
             monitor: `MSI OPTIX MAG270VC2  27" FHD HDMi/VGA`,
@@ -2236,7 +2241,10 @@ oven:"YES"
         "https://i.ibb.co/jLQSYz2/sillas-game-purple2.webp",
         "https://i.ibb.co/vkPkZ3G/sillas-game-purple3.webp"
     ],
-    description: `Removable upper pads. 5-star chrome steel base with wheels. raised armrests. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon`,
+
+    description: {
+      Text: `Removable upper pads. 5-star chrome steel base with wheels. raised armrests. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon`
+    },
     price: 80,
     verified: true,
     verify_code: "",
@@ -2252,7 +2260,10 @@ oven:"YES"
         "https://i.ibb.co/86MLqWt/gamer-masajeador.png",
         "https://i.ibb.co/VL3fHSm/gamer-masageador-descripcion.jpg"
     ],
-    description: `Removable upper and lower pads with usb massager. 5-star chrome steel base with wheels. Adjustable height and raised armrests. Tilt lock mechanism 90-150 degrees. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon.`,
+
+    description: {
+      Text: `Removable upper and lower pads with usb massager. 5-star chrome steel base with wheels. Adjustable height and raised armrests. Tilt lock mechanism 90-150 degrees. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon.`,
+    },
     price: 140,
     verified: true,
     verify_code: "",
@@ -2268,7 +2279,11 @@ oven:"YES"
         "https://i.ibb.co/WHGwYfX/silla-verde2.webp",
         "https://i.ibb.co/JjMfsCy/silla-verde3.webp"
     ],
-    description: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
+    description: {
+  Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+    },
+
     price: 130,
     verified: true,
     verify_code: "",
@@ -2284,7 +2299,8 @@ oven:"YES"
         "https://i.ibb.co/1bKr8Fq/silla-polo3.webp",
         "https://i.ibb.co/NY7vCHp/silla-polo2.jpg"
     ],
-    description: `Removable upper and lower pads. 5-star chrome steel base with wheels. raised armrests, footrest, reclines 90°, height adjustment. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish.`,
+    description: {Text: `Removable upper and lower pads. 5-star chrome steel base with wheels. raised armrests, footrest, reclines 90°, height adjustment. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish.`,
+},
     price: 140,
     verified: true,
     verify_code: "",
@@ -2299,8 +2315,8 @@ oven:"YES"
         "https://i.ibb.co/VCDTvm3/maose-pro.jpg",
         "https://i.ibb.co/wzGBpxk/maose-pro2.jpg"
     ],
-    description: `
-    This wireless modular gaming mouse comes with 3 types of magnetically snap-on side plates: 12-, 6-, and 2-button layouts specially designed to help you adapt to different gaming genres. Optimize your game with these recommended button configurations for each side plate.`,
+    description: 
+{Text: `This wireless modular gaming mouse comes with 3 types of magnetically snap-on side plates: 12-, 6-, and 2-button layouts specially designed to help you adapt to different gaming genres. Optimize your game with these recommended button configurations for each side plate.`},
     price: 80,
     verified: true,
     verify_code: "",
@@ -2316,8 +2332,10 @@ oven:"YES"
         "https://i.ibb.co/KNqqmJG/mx2.jpg",
         "https://i.ibb.co/18wWkqR/mx3.jpg"
     ],
-    description: `
+    description: {Text: `
+
 	Logitech's most advanced trackball for loyal enthusiasts and users looking for alternatives to mice and touchpads. It requires 20% less muscular effort than a standard mouse.`,
+                 },
     price: 120,
     verified: true,
     verify_code: "",

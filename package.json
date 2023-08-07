@@ -8,11 +8,14 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "users": "node ./models/data/users.js",
-    "phoneTabs":"node ./models/data/PhoneTabs.js",
-    "audiovideos":"node ./models/data/audiovideos.js",
+    "phoneTabs": "node ./models/data/PhoneTabs.js",
+    "audiovideos": "node ./models/data/audiovideos.js",
+    "products": "node ./models/data/products.js",
     "data": "node ./models/data/data.js",
-    "gamers": "node ./models/data/gamers.js",
     "products": "node ./models/data/products.js"
+    "electro": "node ./models/data/electrodomestics.js",
+    "gamers": "node ./models/data/gamers.js" 
+
   },
   "dependencies": {
     "chai": "^4.3.7",

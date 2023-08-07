@@ -12,7 +12,7 @@ let schema = new Schema({           //molde de los datos que se van a guardar en
       OperatingSystem: { type: String },
       Storage: { type: String },
       Camera: { type: String },
-      Connectivity: { type: String },
+      Conectivity: { type: String },
       NFC: { type: String },
       Battery: { type: String },
       Color: { type: String }
