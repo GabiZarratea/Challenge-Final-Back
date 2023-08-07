@@ -12,7 +12,7 @@
     "audiovideos": "node ./models/data/audiovideos.js",
     "products": "node ./models/data/products.js",
     "data": "node ./models/data/data.js",
-    "products": "node ./models/data/products.js"
+    "products": "node ./models/data/products.js",
     "electro": "node ./models/data/electrodomestics.js",
     "gamers": "node ./models/data/gamers.js" 
 
