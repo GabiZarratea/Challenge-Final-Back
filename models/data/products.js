@@ -49,7 +49,7 @@ let products = [
     "https://images.fravega.com/f300/d9a8a135637c0acd4db50fdff7a844b7.jpg.webp",
     "https://images.fravega.com/f300/abd2a4884d3f64e4ca09bdafe75be5fa.jpg.webp"
     ],
-    price: 83999,
+    price: 839,
     brand:'Samsung',
     Moreview: true,
     available: 15,
@@ -98,7 +98,7 @@ let products = [
     "https://images.fravega.com/f300/55ec578e88ea05ec5fcebfacc16df24d.jpg.webp",
     "https://images.fravega.com/f300/d3001894cfcacb9fde93548690e380fb.png.webp"
     ],
-    price: 129999,
+    price: 129,
     brand:'Samsung',
     Moreview: false,
     available: 3,
@@ -146,7 +146,7 @@ let products = [
     "https://images.fravega.com/f300/676b4dcf411b14af655c5c289ce72f33.jpg.webp",
     "https://images.fravega.com/f300/e819eb5a8b27a29e8684e12910627e50.jpg.webp"
     ],
-    price: 184999,
+    price: 184,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -192,7 +192,7 @@ let products = [
     "https://images.fravega.com/f300/4714e59e43defdf07a14c86c25109ddd.jpg.webp",
     "https://images.fravega.com/f300/953259f05194123b82c2bb5c58df21a2.jpg.webp"
     ],
-    price: 324999,
+    price: 324,
     brand:'Samsung',
     Moreview: true,
     available: 15,
@@ -218,7 +218,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/00508020-178122-178122-01.png-178122-01.png-size515?context=bWFzdGVyfGltYWdlc3wyNTA2MTl8aW1hZ2UvcG5nfGg3Ni9oOWYvMTA0MDc0Njc3MTI1NDIvMDA1MDgwMjAtMTc4MTIyLTE3ODEyMl8wMS5wbmctMTc4MTIyXzAxLnBuZ19zaXplNTE1fGE4NDQ5NTFjN2Q5MjM2YjljNGQ3MTY5NWE5NTI4M2UzY2ZkZmRhNGJiZTQyMjAxOTJkNjQ2ZjQ2MjQxMzdiODg"
     ],
-    price: 74799,
+    price: 747,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -244,7 +244,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/size515-178913-01.png?context=bWFzdGVyfGltYWdlc3w0MjQ4MTF8aW1hZ2UvcG5nfGgwMS9oZWYvMTA0ODIzNDQzMjkyNDYvc2l6ZTUxNV8xNzg5MTNfMDEucG5nfDk4MWZmZDM3Y2I4NWY0NzE2MTk5OTk0NDExNTAwMjgzYzJmOTMwYWRlMzFmNzViODU5MWNhYWNjMzk2ZmFiYjg"
 ],
-    price: 11539,
+    price: 115,
     brand:'Samsung',
     Moreview: true,
     available: 10,
@@ -270,7 +270,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/size515-176753-01.jpg?context=bWFzdGVyfGltYWdlc3w0ODY5M3xpbWFnZS9qcGVnfGgwMi9oMmQvMTA0NzI2MjQ4ODE2OTQvc2l6ZTUxNV8xNzY3NTNfMDEuanBnfDU1ODVhYTkwMDMwODQ0NGEwODQyZTFkM2ZhNTJhOTBiOGI3Y2EzNzFkOTU4YTYyZGEzZmFjY2MwM2MxOTQyMGY"
     ],
-    price: 31799,
+    price: 317,
     brand:'Samsung',
     Moreview: true,
     available: 2,
@@ -296,7 +296,7 @@ let products = [
     cover_photo: [
         "https://medias.musimundo.com/medias/00399070-177108-177108-01.png-177108-01.png-size515?context=bWFzdGVyfGltYWdlc3wxNzE4MjF8aW1hZ2UvcG5nfGg4MS9oM2EvMTAzODE1NjExMzUxMzQvMDAzOTkwNzAtMTc3MTA4LTE3NzEwOF8wMS5wbmctMTc3MTA4XzAxLnBuZ19zaXplNTE1fDE3YzNiYmM2MmE2NTYxZWZmMjkwM2Y2ODNmMzc5MGI4Y2VlYTRjMTgyNWExM2Q5NzI2NmYzY2ExODg5ODVhMWU"
     ],
-    price: 14999,
+    price: 149,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -318,7 +318,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00463001-177533-177533-01.png-177533-01.png-size515?context=bWFzdGVyfGltYWdlc3wxMjQwMDR8aW1hZ2UvcG5nfGgwNS9oMTIvMTAzODE0OTgwODk1MDIvMDA0NjMwMDEtMTc3NTMzLTE3NzUzM18wMS5wbmctMTc3NTMzXzAxLnBuZ19zaXplNTE1fDY1ODMzYWI2YWY2ODY5ZDM5OTRlOGIwNWYyZDI5ZGNjMWYxYzBjMTZjMDEzYjdiMjM2NzQ0ODA0YTE5YzRlMDU"
     ],
-    price: 6999,
+    price: 69,
     brand:'Samsung',
     Moreview: false,
     available: 2,
@@ -343,7 +343,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00210027-174973-174973-01.png-174973-01.png-size515?context=bWFzdGVyfGltYWdlc3w0MzA0NDN8aW1hZ2UvcG5nfGgwNi9oOGUvMTAzMDQ0NzAyNTM1OTgvMDAyMTAwMjctMTc0OTczLTE3NDk3M18wMS5wbmctMTc0OTczXzAxLnBuZ19zaXplNTE1fDhiMWU2YzIzYmZkYWVmNjMzNTZjMzM2ZGY5NzI1ZjJiNDk1MGFmZWNjODU0YTI1ODExMmVjODNhNmEyZThhZDY"
     ],
-    price: 16999,
+    price: 169,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -365,7 +365,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00299076-175886-175886-01.png-175886-01.png-size515?context=bWFzdGVyfGltYWdlc3wzOTM4MjV8aW1hZ2UvcG5nfGg2Zi9oNzYvMTAzMjA4NzkwMjYyMDYvMDAyOTkwNzYtMTc1ODg2LTE3NTg4Nl8wMS5wbmctMTc1ODg2XzAxLnBuZ19zaXplNTE1fDljMzVlNzU0MGUzMmY5YjRlNmJmODM3MmZlNmM2YWE4MDU1NGRhMTc3ZWU4NzIxY2M5OGEzNzE3NjQzNDVlMWY"
     ],
-    price: 5299,
+    price: 5,
     brand:'Samsung',
     Moreview: true,
     available: 20,
@@ -391,7 +391,7 @@ let products = [
     cover_photo:[
     "https://medias.musimundo.com/medias/00307102-176637-176637-01.png-176637-01.png-size515?context=bWFzdGVyfGltYWdlc3w2Nzc5NXxpbWFnZS9wbmd8aGM3L2g4ZS8xMDM3OTc0MTA2OTM0Mi8wMDMwNzEwMi0xNzY2MzctMTc2NjM3XzAxLnBuZy0xNzY2MzdfMDEucG5nX3NpemU1MTV8OTJmYTZkZGQ0OWVlYzYzMTZmN2RhZjAyZjU1MjU1ODE5OGMyODI0MWU4MTRlMTBhZTk5MWQ1ZjY1NzA4MDI5OQ"
     ],
-    price: 12549,
+    price: 125,
     brand:'Samsung',
     Moreview: false,
     available: 20,
@@ -413,7 +413,7 @@ let products = [
     "https://images.fravega.com/f300/7275ccca8883c8c063d85303aec0bd0c.jpg.webp",
     "https://images.fravega.com/f300/8e4a0c3a6bd760a5c6a7b342238e86af.jpg.webp"
     ],
-    price: 829999,
+    price: 829,
     brand:'Samsung',
     Moreview: true,
     available: 15,
@@ -435,7 +435,7 @@ let products = [
     "https://images.fravega.com/f300/f1f64f0b24259c8ed8da569b9b171a94.jpg.webp",
     "https://images.fravega.com/f300/b31cc4293f0b9c401e7fa3cd2f408277.jpg.webp"
     ],
-    price: 799999,
+    price: 799,
     brand:'Samsung',
     Moreview: false,
     available: 5,
@@ -457,7 +457,7 @@ let products = [
     "https://images.fravega.com/f300/561b74d70a37b6f3394b39ef1085df44.jpg.webp",
     "https://images.fravega.com/f300/183a0a288ec9585ad6e3d33b19a18be8.jpg.webp"
     ],
-    price: 269999,
+    price: 269,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -478,7 +478,7 @@ let products = [
     "https://images.fravega.com/f300/a61b9354106bf0727809a80b737989ed.jpg.webp",
     "https://images.fravega.com/f300/1b8055ba2e62c8cd58b4c95e5edafa94.jpg.webp"
     ],
-    price: 264999,
+    price: 264,
     brand:'Samsung',
     Moreview: false,
     available: 3,
@@ -508,7 +508,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_954411-MLA51739377995_092022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_913813-MLA51739471157_092022-O.webp"
     ],
-    price: 109719,
+    price: 109,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -537,7 +537,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_982431-MLU70020195357_062023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_764367-MLU70020195359_062023-O.webp"
     ],
-    price: 6590,
+    price: 659,
     brand:'Samsung',
     Moreview: false,
     available: 15,
@@ -565,7 +565,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_895807-MLU70065262575_062023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_765617-MLU70065322575_062023-O.webp"
     ],
-    price: 118153,
+    price: 1181,
     brand:'Samsung',
     Moreview: false,
     available: 4,
@@ -594,7 +594,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_954411-MLA51739377995_092022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_913813-MLA51739471157_092022-O.webp"
     ],
-    price: 102434,
+    price: 102,
     brand:'Samsung',
     Moreview: false,
     available: 10,
@@ -617,7 +617,7 @@ let products = [
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/04.png',
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/05.png'
     ],
-    price: 509999,
+    price: 509,
     brand:'Samsung',
     Moreview: false,
     available: 10,
@@ -640,7 +640,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4-3200 MHz (2 x 4GB)'
     } ,
-    price: 484999,
+    price: 484,
     brand:'Samsung',
     Moreview: true,
     available: 5,
@@ -661,7 +661,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 429999,
+    price: 429,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -682,7 +682,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 519999,
+    price: 519,
     brand:'Samsung',
     Moreview: true,
     available: 2,
@@ -703,7 +703,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB DDR4'
     } ,
-    price: 1149999,
+    price: 1149,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -723,7 +723,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 349999,
+    price: 349,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -743,7 +743,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 929999,
+    price: 929,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -763,7 +763,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB DDR4'
     } ,
-    price: 359999,
+    price: 359,
     brand:'Samsung',
     Moreview: false,
     available: 9,
@@ -783,7 +783,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 1759999,
+    price: 1759,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -803,7 +803,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB'
     } ,
-    price: 3059999,
+    price: 3059,
     brand:'Samsung',
     Moreview: false,
     available: 26,
@@ -823,7 +823,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 494999,
+    price: 494,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -843,7 +843,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB'
     } ,
-    price: 764999,
+    price: 764,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -863,7 +863,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 489999,
+    price: 489,
     brand:'Samsung',
     Moreview: true,
     available: 6,
@@ -883,7 +883,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 414999,
+    price: 414,
     brand:'Samsung',
     Moreview: false,
     available: 1,
@@ -903,7 +903,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'8GB'
     } ,
-    price: 1054999,
+    price: 1059,
     brand:'Samsung',
     Moreview: false,
     available: 18,
@@ -923,7 +923,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB'
     } ,
-    price: 2179999,
+    price: 2179,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -943,7 +943,7 @@ let products = [
         Storage:'512GB SSD',
         Ram:'16GB'
     } ,
-    price: 2114999,
+    price: 2114,
     brand:'Samsung',
     Moreview: false,
     available: 4,
@@ -963,7 +963,7 @@ let products = [
         Storage:'256GB SSD',
         Ram:'8GB'
     } ,
-    price: 749999,
+    price: 749,
     brand:'Samsung',
     Moreview: false,
     available: 12,
@@ -983,7 +983,7 @@ let products = [
         Storage:'1TB SSD',
         Ram:'16GB'
     } ,
-    price: 1059999,
+    price: 1059,
     brand:'Samsung',
     Moreview: true,
     available: 12,
@@ -1003,7 +1003,7 @@ let products = [
         Storage:'1TB SSD',
         Ram:'16GB'
     } ,
-    price: 4489999,
+    price: 4489,
     brand:'Samsung',
     Moreview: false,
     available: 16,
@@ -1014,11 +1014,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["High-Resolution Camera: A wide-lens camera captures the finest details, making it easy to capture every family gathering; Plus, Advanced Portrait Mode ups your photo game by automatically focusing on people and blurring the background.",
-    "Long-lasting battery: Whether you're taking a video call on your commute, catching up on your favorite show, or connecting with friends and family, your super-fast-charging, long-lasting battery",
-    "Powerful performance: Galaxy A23 5G's powerful processor keeps your day running smoothly; load your favorite apps at blazing speeds for non-stop fun and unlock new levels of gaming with 5G with virtually no lag",
-    "Modern Design: A slim and beautiful design, with a compact camera, eliminates unnecessary bulk, plus a Gorilla Glass 5 display gives this sleek phone an extra level of toughness"
-],
+    Text:"High-Resolution Camera: A wide-lens camera captures the finest details, making it easy to capture every family gathering; Plus, Advanced Portrait Mode ups your photo game by automatically focusing on people and blurring the background. Long-lasting battery: Whether you're taking a video call on your commute, catching up on your favorite show, or connecting with friends and family, your super-fast-charging, long-lasting battery. Powerful performance: Galaxy A23 5G's powerful processor keeps your day running smoothly; load your favorite apps at blazing speeds for non-stop fun and unlock new levels of gaming with 5G with virtually no lag. Modern Design: A slim and beautiful design, with a compact camera, eliminates unnecessary bulk, plus a Gorilla Glass 5 display gives this sleek phone an extra level of toughness",
     Screen:"6.6-inch",
     Processor:"Snapdragon 695",
     OperatingSystem:"Android 12 OneUI 4.1",
@@ -1076,11 +1072,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Super Steady 8K Video: Record videos that rival how epic your life is with stunning 8K recording, the highest recording resolution available on a smartphone; Video capture is effortless thanks to autofocus video stabilization on the Galaxy S22",
-    "Night Photography + Handheld Mode: Capture the night with bright, clear images and video, no matter the lighting with Night Mode; Portrait mode automatically detects and snaps to whatever you want front and center, making all your photos frame-worthy",
-    "High-quality design and craftsmanship: With a sleek and eye-catching metal and glass glass design, we're setting a standard for smartphones; Featuring our strongest aluminum frame and the latest in Gorilla Glass, this phone is lightweight and durable to help withstand scratches and dings.",
-    "Adaptive Color Contrast: Streaming on the go, working from your backyard, or binge-watching late into the night? Galaxy S22 adaptive display automatically optimizes color and brightness, outdoors and indoors"
-], 
+    Text:"Super Steady 8K Video: Record videos that rival how epic your life is with stunning 8K recording, the highest recording resolution available on a smartphone; Video capture is effortless thanks to autofocus video stabilization on the Galaxy S22. Night Photography + Handheld Mode: Capture the night with bright, clear images and video, no matter the lighting with Night Mode; Portrait mode automatically detects and snaps to whatever you want front and center, making all your photos frame-worthy. High-quality design and craftsmanship: With a sleek and eye-catching metal and glass glass design, we're setting a standard for smartphones; Featuring our strongest aluminum frame and the latest in Gorilla Glass, this phone is lightweight and durable to help withstand scratches and dings. Adaptive Color Contrast: Streaming on the go, working from your backyard, or binge-watching late into the night? Galaxy S22 adaptive display automatically optimizes color and brightness, outdoors and indoors", 
     Screen:"6,1-inch",
     Processor:"Samsung Exynos 2200 8 cores",
     OperatingSystem:"Android 12 One UI 4.1",
@@ -1107,11 +1099,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Professional Camera: The new Samsung Galaxy S20 FE mobile phone features high-powered professional lenses for beautiful portraits, stunning landscapes and sharp close-ups in any light with its 3x optical zoom",
-    "5g power: Get next-level power for everything you love to do with Samsung Galaxy 5G; more sharing, more games, more experiences and never miss a beat",
-    "Zoom de espacio de 30 aumentos: si quieres que tu teléfono celular se acerque desde lejos o aumente los detalles de algo cercano, el zoom de 30 x te da la potencia para acercarte",
-    "Modo noche: captura imágenes nítidas y vídeo vibrante con modo nocturno y crea contenido de alta calidad en poca luz, no requiere flash con este smartphone"
-], 
+    Text:"Professional Camera: The new Samsung Galaxy S20 FE mobile phone features high-powered professional lenses for beautiful portraits, stunning landscapes and sharp close-ups in any light with its 3x optical zoom. 5g power: Get next-level power for everything you love to do with Samsung Galaxy 5G; more sharing, more games, more experiences and never miss a beat. Zoom de espacio de 30 aumentos: si quieres que tu teléfono celular se acerque desde lejos o aumente los detalles de algo cercano, el zoom de 30 x te da la potencia para acercarte. Modo noche: captura imágenes nítidas y vídeo vibrante con modo nocturno y crea contenido de alta calidad en poca luz, no requiere flash con este smartphone", 
     Screen:"6,5-inch",
     Processor:"Exynos 990 Octa-Core",
     OperatingSystem:"Android 10.0",
@@ -1138,11 +1126,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Flex Your Best Angle: With Flex mode, simply unfold your cell phone screen to your best angle for hands-free photos and video calls; choose what you want to capture, set it up, go back and take your best shot.",
-    "A camera that stays put: Thanks to Samsung Galaxy Z Flip3's Super Steady feature, you can simply set it up and strike a pose for perfect selfies.",
-    "Ultra compact, ultra awesome: Show off your style without compromise; With a compact design that folds out, you don't have to resize your screen for your favorite outfit.",
-    "All your notifications, from head to toe: Control your cell phone, even when it's folded shut; Galaxy Z Flip3 notifies you on the screen on the outer cover, so you can see notifications and check the weather."
-], 
+    Text:"Flex Your Best Angle: With Flex mode, simply unfold your cell phone screen to your best angle for hands-free photos and video calls; choose what you want to capture, set it up, go back and take your best shot. A camera that stays put: Thanks to Samsung Galaxy Z Flip3's Super Steady feature, you can simply set it up and strike a pose for perfect selfies. Ultra compact, ultra awesome: Show off your style without compromise; With a compact design that folds out, you don't have to resize your screen for your favorite outfit. All your notifications, from head to toe: Control your cell phone, even when it's folded shut; Galaxy Z Flip3 notifies you on the screen on the outer cover, so you can see notifications and check the weather.", 
     Screen:"6,7-inch",
     Processor:"Snapdragon 888",
     OperatingSystem:"Android 11.0",
@@ -1169,11 +1153,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Capture on one screen, text on the other: Catch up with friends at the top and find the perfect image to post at the bottom; flexible mode makes doing two things at once a breeze",
-    "Never miss a notification: Galaxy Z Flip4's customizable cover display lets you see just what you need while keeping your entire screen private; respond to texts, skip songs and change settings, all while keeping your cell phone comfortably compact",
-    "POCKET-PERFECT SIZE: Ditch the bag and travel light; The compact, foldable design lets you say goodbye to bulk without sacrificing a big screen. slide your smartphone easily even in your front pocket",
-    "Mantente sincronizado: mantente al día de las notificaciones o rastrea tu entrenamiento directamente en tu muñeca; el Galaxy Z Flip4 se sincroniza fácilmente con tu Galaxy Watch, y con una variedad de opciones de color, puedes obtener uno para que coincida con tu vibración"
-], 
+    Text:"Capture on one screen, text on the other: Catch up with friends at the top and find the perfect image to post at the bottom; flexible mode makes doing two things at once a breeze. Never miss a notification: Galaxy Z Flip4's customizable cover display lets you see just what you need while keeping your entire screen private; respond to texts, skip songs and change settings, all while keeping your cell phone comfortably compact. POCKET-PERFECT SIZE: Ditch the bag and travel light; The compact, foldable design lets you say goodbye to bulk without sacrificing a big screen. slide your smartphone easily even in your front pocket. Mantente sincronizado: mantente al día de las notificaciones o rastrea tu entrenamiento directamente en tu muñeca; el Galaxy Z Flip4 se sincroniza fácilmente con tu Galaxy Watch, y con una variedad de opciones de color, puedes obtener uno para que coincida con tu vibración", 
     Screen:"6,7-inch",
     Processor:"Snapdragon 8+ Gen 1",
     OperatingSystem:"Android 12.0",
@@ -1200,11 +1180,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Enjoy true colors in photos, videos and games with the 6.1-inch Liquid Retina display",
-    "Harness unprecedented performance in gaming, augmented reality, and photography with the A13 Bionic chip. Do much more without having to recharge your phone thanks to its long-lasting battery.",
-    "Shoot 4K video and capture stunning portraits and stunning landscapes with the dual-camera system. Take great photos in low light thanks to Night mode.",
-    "Don't worry if it gets wet, iPhone 11 is water resistant for up to 30 minutes to a maximum depth of 2 meters."
-], 
+    Text:"Enjoy true colors in photos, videos and games with the 6.1-inch Liquid Retina display. Harness unprecedented performance in gaming, augmented reality, and photography with the A13 Bionic chip. Do much more without having to recharge your phone thanks to its long-lasting battery. Shoot 4K video and capture stunning portraits and stunning landscapes with the dual-camera system. Take great photos in low light thanks to Night mode. Don't worry if it gets wet, iPhone 11 is water resistant for up to 30 minutes to a maximum depth of 2 meters.", 
     Screen:"6,06-inch",
     Processor:"A13 Bionic",
     OperatingSystem:"iOS 13",
@@ -1231,11 +1207,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Super Retina XDR display with ProMotion for faster, smoother response.",
-    "New 12MP Pro camera system (telephoto, wide and ultra-wide), LiDAR scanner, 6x optical zoom range, macro photography, Photo Styles, ProRes2 video, Smart HDR 4, Night mode, Apple ProRAW and video recording 4K HDR video in Dolby Vision",
-    "Cinema mode with shallow depth of field and automatic focus changes in your videos",
-    "Don't worry if it gets wet, iPhone 13 PRO is water resistant for up to 30 minutes to a maximum depth of 2 meters."
-], 
+    Text:"Super Retina XDR display with ProMotion for faster, smoother response. New 12MP Pro camera system (telephoto, wide and ultra-wide), LiDAR scanner, 6x optical zoom range, macro photography, Photo Styles, ProRes2 video, Smart HDR 4, Night mode, Apple ProRAW and video recording 4K HDR video in Dolby Vision. Cinema mode with shallow depth of field and automatic focus changes in your videos. Don't worry if it gets wet, iPhone 13 PRO is water resistant for up to 30 minutes to a maximum depth of 2 meters.", 
     Screen:"5,4-inch",
     Processor:"A15 Bionic",
     OperatingSystem:"iOS 15",
@@ -1262,11 +1234,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["6.1-inch Super Retina XDR always-on display with ProMotion technology",
-    "Action mode for steady video, even handheld.",
-    "Cinema mode now in 4K Dolby Vision at up to 30fps, Action mode for steady video, even handheld, and Crash Detection, a safety feature that calls for help when you can't.",
-    "Don't worry if it gets wet, iPhone 14 is water resistant for up to 30 minutes to a maximum depth of 2 meters."
-], 
+    Text:"6.1-inch Super Retina XDR always-on display with ProMotion technology. Action mode for steady video, even handheld. Cinema mode now in 4K Dolby Vision at up to 30fps, Action mode for steady video, even handheld, and Crash Detection, a safety feature that calls for help when you can't. Don't worry if it gets wet, iPhone 14 is water resistant for up to 30 minutes to a maximum depth of 2 meters.", 
     Screen:"6,1-inch",
     Processor:"A15 Bionic",
     OperatingSystem:"iOS 16",
@@ -1293,10 +1261,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["The Xiaomi 12 Pro is the true flagship of the Xiaomi 12 series. With a 6.73-inch LTPO AMOLED screen at 1440p resolution and 120Hz refresh rate, the Xiaomi 12 Pro is powered by a Qualcomm Snapdragon 8 Gen 1 processor",
-    "On the back of the Xiaomi 12 Pro we find a set of three 50MP cameras, wide, ultrawide and telephoto, respectively, while the selfie camera is 32MP.",
-    "A 4600 mAh battery with 120W fast charging and compatible with wireless charging powers the Xiaomi 12 Pro, which completes its features with stereo speakers optimized by Harman Kardon",
-], 
+    Text:"The Xiaomi 12 Pro is the true flagship of the Xiaomi 12 series. With a 6.73-inch LTPO AMOLED screen at 1440p resolution and 120Hz refresh rate, the Xiaomi 12 Pro is powered by a Qualcomm Snapdragon 8 Gen 1 processor. On the back of the Xiaomi 12 Pro we find a set of three 50MP cameras, wide, ultrawide and telephoto, respectively, while the selfie camera is 32MP. A 4600 mAh battery with 120W fast charging and compatible with wireless charging powers the Xiaomi 12 Pro, which completes its features with stereo speakers optimized by Harman Kardon", 
     Screen:"6,67-inch",
     Processor:"Qualcomm Snapdragon 8+ Gen 1",
     OperatingSystem:"MIUI 13 based on Android 12",
@@ -1323,11 +1288,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Professional photography in your pocket Discover endless possibilities for your photos with the 4 main cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results.",
-    "Amazing viewing experience Watch your favorite series and movies in the best definition through its 6.43 inch AMOLED screen.Enjoy brilliant colors and precise details in all your content.",
-    "Higher performance Its 4 GB RAM memory allows your smartphone to work smoothly and without delays when performing different tasks, playing games or browsing",
-    "Superior battery life Unplug! With the 5000 mAh super battery you will have energy for much longer to play, watch series or work without the need to recharge."
-], 
+    Text:"Professional photography in your pocket Discover endless possibilities for your photos with the 4 main cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results. Amazing viewing experience Watch your favorite series and movies in the best definition through its 6.43 inch AMOLED screen.Enjoy brilliant colors and precise details in all your content. Higher performance Its 4 GB RAM memory allows your smartphone to work smoothly and without delays when performing different tasks, playing games or browsing. Superior battery life Unplug! With the 5000 mAh super battery you will have energy for much longer to play, watch series or work without the need to recharge.", 
     Screen:"6.43-inch",
     Processor:" Snapdragon 680 Octa-Core",
     OperatingSystem:"Android 11",
@@ -1354,11 +1315,7 @@ let products = [
     type: 'Phones',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Professional photography in your pocket Discover endless possibilities for your photos with the 3 main cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results.",
-    "Incredible visual experience Watch your favorite series and movies in the best definition through its 6.67 inch AMOLED screen. Enjoy brilliant colors and precise details in all your content.",
-    "capacity and efficiency With its powerful processor and 8 GB RAM, your device will achieve high performance with high speed content transmission and will run multiple applications at the same time without delays.",
-    "Superior battery life Unplug! With the 4500 mAh super battery you will have energy for much longer to play, watch series or work without the need to recharge."
-], 
+    Text:"Professional photography in your pocket Discover endless possibilities for your photos with the 3 main cameras of your team. Put your creativity to the test and play with lighting, different planes and effects to get great results. Incredible visual experience Watch your favorite series and movies in the best definition through its 6.67 inch AMOLED screen. Enjoy brilliant colors and precise details in all your content. capacity and efficiency With its powerful processor and 8 GB RAM, your device will achieve high performance with high speed content transmission and will run multiple applications at the same time without delays. Superior battery life Unplug! With the 4500 mAh super battery you will have energy for much longer to play, watch series or work without the need to recharge.", 
     Screen:"6,67-inch",
     Processor:"Snapdragon 870 5G Octa-Core",
     OperatingSystem:"MIUI 13 + POCO Launcher Android 12",
@@ -1385,11 +1342,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Enjoy an incredible multimedia experience with the 10.5-inch Samsung Galaxy Tab A A8 Tablet with 64GB of storage in elegant dark gray color. With its powerful 2GHz Octa-Core processor and 4GB of RAM, you'll be able to browse, watch movies and play games without interruption. The high-resolution multi-touch screen (1920x1200 px) gives you sharp images and vibrant colors, while the Android operating system gives you access to thousands of applications and features.",
-    "Capture your favorite moments with the 8MP rear camera and make video calls with the 5MP front camera. Face unlock gives you security and convenience when accessing your tablet. And if you need more space, you can expand the memory up to 1TB with a microSD card.",
-    "With sensors such as accelerometer, gyroscope, geomagnetic sensor, hall sensor and ambient light sensor, the Samsung Galaxy Tab A A8 adapts to your needs and offers you a complete user experience. Don't wait any longer to enjoy everything this tablet has to offer you.",
-    "Wi-Fi, Bluetooth 5 and USB 2.0 connectivity let you easily share files and connect to other devices. In addition, it has GPS so you can use map and navigation applications. The 7040 mAh battery guarantees hours of use without worrying about recharging."
-], 
+    Text:"Enjoy an incredible multimedia experience with the 10.5-inch Samsung Galaxy Tab A A8 Tablet with 64GB of storage in elegant dark gray color. With its powerful 2GHz Octa-Core processor and 4GB of RAM, you'll be able to browse, watch movies and play games without interruption. The high-resolution multi-touch screen (1920x1200 px) gives you sharp images and vibrant colors, while the Android operating system gives you access to thousands of applications and features. Capture your favorite moments with the 8MP rear camera and make video calls with the 5MP front camera. Face unlock gives you security and convenience when accessing your tablet. And if you need more space, you can expand the memory up to 1TB with a microSD card. With sensors such as accelerometer, gyroscope, geomagnetic sensor, hall sensor and ambient light sensor, the Samsung Galaxy Tab A A8 adapts to your needs and offers you a complete user experience. Don't wait any longer to enjoy everything this tablet has to offer you. Wi-Fi, Bluetooth 5 and USB 2.0 connectivity let you easily share files and connect to other devices. In addition, it has GPS so you can use map and navigation applications. The 7040 mAh battery guarantees hours of use without worrying about recharging.", 
     Screen:"10,5-inch",
     Processor:"Octa core 8",
     OperatingSystem:"Android One UI 3.1",
@@ -1417,11 +1370,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["Enjoy an unbeatable experience with the Samsung Galaxy Tab S S6 Lite Tablet, perfect for your entertainment and productivity needs. Its elegant design in oxford gray color and 10.4-inch screen allow you to enjoy your favorite movies, series and games with amazing image quality. Thanks to its Android 12.0 operating system and its powerful Octa-Core Qualcomm Kyro 465 processor, you can run multiple applications smoothly and quickly.",
-    "With 4GB of RAM and 64GB of capacity, you'll have enough space to store your files, photos, and videos. Also, you can expand its capacity up to 1TB with a memory card. Wi-Fi, Bluetooth and GPS connectivity will keep you always connected and located at all times",
-    "Capture your best moments with its 8 Mpx rear camera and make clear video calls with its 5 Mpx front camera. Face unlock gives you security and convenience when accessing your device. The 7040 mAh battery guarantees up to 14-15 hours of continuous use, so you can enjoy your activities without worrying about charging.",
-    "The Samsung Galaxy Tab S S6 Lite is the ideal companion for your daily tasks, studies or moments of leisure. Do not wait any longer and take with you this incredible tablet that offers you the best in technology and performance."
-], 
+    Text:"Enjoy an unbeatable experience with the Samsung Galaxy Tab S S6 Lite Tablet, perfect for your entertainment and productivity needs. Its elegant design in oxford gray color and 10.4-inch screen allow you to enjoy your favorite movies, series and games with amazing image quality. Thanks to its Android 12.0 operating system and its powerful Octa-Core Qualcomm Kyro 465 processor, you can run multiple applications smoothly and quickly. With 4GB of RAM and 64GB of capacity, you'll have enough space to store your files, photos, and videos. Also, you can expand its capacity up to 1TB with a memory card. Wi-Fi, Bluetooth and GPS connectivity will keep you always connected and located at all times. Capture your best moments with its 8 Mpx rear camera and make clear video calls with its 5 Mpx front camera. Face unlock gives you security and convenience when accessing your device. The 7040 mAh battery guarantees up to 14-15 hours of continuous use, so you can enjoy your activities without worrying about charging. The Samsung Galaxy Tab S S6 Lite is the ideal companion for your daily tasks, studies or moments of leisure. Do not wait any longer and take with you this incredible tablet that offers you the best in technology and performance.", 
     Screen:"10,4-inch",
     Processor:"Qualcomm Adreno 618",
     OperatingSystem:"Android 12",
@@ -1448,10 +1397,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["This Samsung tablet is the ideal companion, with plenty of capacity for each of your activities. The slim, compact and portable design, easy to hold in one hand, makes it a perfect combination of performance and versatility.",
-    "Transferring, synchronizing and accessing your devices as many times as you want is now possible. Its wi-fi, wi-fi direct, bluetooth, usb-c connections allow you to maximize its functions.",
-    "Capture all your moments instantly Thanks to its cameras, with 8 Mpx and 2 Mpx resolutions, you can make video calls or take photos anytime, anywhere, with excellent image quality. Sharpness, brightness and vibrant colors will make your experiences optimally reflected.",
-    ], 
+    Text:"This Samsung tablet is the ideal companion, with plenty of capacity for each of your activities. The slim, compact and portable design, easy to hold in one hand, makes it a perfect combination of performance and versatility. Transferring, synchronizing and accessing your devices as many times as you want is now possible. Its wi-fi, wi-fi direct, bluetooth, usb-c connections allow you to maximize its functions. Capture all your moments instantly Thanks to its cameras, with 8 Mpx and 2 Mpx resolutions, you can make video calls or take photos anytime, anywhere, with excellent image quality. Sharpness, brightness and vibrant colors will make your experiences optimally reflected.", 
     Screen:"8,7-inch",
     Processor:"Octa-Core Cortex-A53",
     OperatingSystem:"Android 11",
@@ -1478,9 +1424,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["The new iPad mini features an 8.3-inch Liquid Retina display with an edge-to-edge design and the powerful A15 Bionic chip with Neural Engine. In addition, it has a 12 MP ultra-wide-angle front camera with Center Framing and USB-C connectivity.",
-    "Take notes, annotate documents, and bring your best ideas to life with Apple Pencil (2nd generation), which attaches magnetically to iPad mini and charges wirelessly.",
-    ], 
+    Text:"The new iPad mini features an 8.3-inch Liquid Retina display with an edge-to-edge design and the powerful A15 Bionic chip with Neural Engine. In addition, it has a 12 MP ultra-wide-angle front camera with Center Framing and USB-C connectivity. Take notes, annotate documents, and bring your best ideas to life with Apple Pencil (2nd generation), which attaches magnetically to iPad mini and charges wirelessly.", 
     Screen:"8,3-inch",
     Processor:"A15 Bionic",
     OperatingSystem:"iPadOS 15",
@@ -1507,8 +1451,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["iPad Air has a stunning 10.9-inch Liquid Retina display and Apple's super-powerful M1 chip so you can unleash your creativity and play without limits wherever you go. It comes with Touch ID, advanced cameras, USB-C and Wi-Fi 6 connections. In addition, it is compatible with the Magic Keyboard and Apple Pencil (2nd generation).",
-    ], 
+    Text:"iPad Air has a stunning 10.9-inch Liquid Retina display and Apple's super-powerful M1 chip so you can unleash your creativity and play without limits wherever you go. It comes with Touch ID, advanced cameras, USB-C and Wi-Fi 6 connections. In addition, it is compatible with the Magic Keyboard and Apple Pencil (2nd generation).", 
     Screen:"10,9-inch",
     Processor:"Octa-Core",
     OperatingSystem:"iPadOS 15",
@@ -1535,8 +1478,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["This product combines the power and capability of a computer with the versatility and ease of use that only an iPad can provide. Multitasking, such as editing documents while searching for information on the Internet or taking a selfie, is extremely easy. As if this were not enough, it also offers the possibility of downloading from the App Store hundreds of applications created for painting, drawing, listening to music and much more!",
-], 
+    Text:"This product combines the power and capability of a computer with the versatility and ease of use that only an iPad can provide. Multitasking, such as editing documents while searching for information on the Internet or taking a selfie, is extremely easy. As if this were not enough, it also offers the possibility of downloading from the App Store hundreds of applications created for painting, drawing, listening to music and much more!", 
     Screen:"10,9-inch",
     Processor:"A14 Bionic",
     OperatingSystem:"Ipad OS15",
@@ -1563,10 +1505,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["This tablet is the perfect combination of performance and versatility, ideal to accompany each of your activities.",
-    "Transferring, synchronizing and accessing your devices as many times as you want is now possible. Its pogo pin, usb-c, wi-fi, wi-fi direct, wi-fi display, bluetooth, otg connections allow you to maximize its functions.",
-    "Capture all your moments instantly Thanks to its cameras, with 13 Mpx and 8 Mpx resolutions, you can make video calls or take photos anytime, anywhere, with excellent image quality. Sharpness, brightness and vibrant colors will make your experiences optimally reflected.",
-    ], 
+    Text:"This tablet is the perfect combination of performance and versatility, ideal to accompany each of your activities. Transferring, synchronizing and accessing your devices as many times as you want is now possible. Its pogo pin, usb-c, wi-fi, wi-fi direct, wi-fi display, bluetooth, otg connections allow you to maximize its functions. Capture all your moments instantly Thanks to its cameras, with 13 Mpx and 8 Mpx resolutions, you can make video calls or take photos anytime, anywhere, with excellent image quality. Sharpness, brightness and vibrant colors will make your experiences optimally reflected.", 
     Screen:"11-inch",
     Processor:"Octa-Core Qualcomm Kryo 260",
     OperatingSystem:"Android 10",
@@ -1593,10 +1532,7 @@ let products = [
     type: 'Tabs',
     category: 'CELLPHONES AND TABLETS',
     description:{
-    Text:["This tablet is the perfect combination of performance and versatility, ideal to accompany each of your activities.",
-    "Transferring, synchronizing and accessing your devices as many times as you want is now possible. Its bluetooth, wi-fi, usb-c, and wi-fi direct connections allow you to maximize its functions.",
-    "Capture all your moments instantly Thanks to its cameras, with 8 Mpx and 8 Mpx resolutions, you can make video calls or take photos anytime, anywhere, with excellent image quality. Sharpness, brightness and vibrant colors will make your experiences optimally reflected.",
-    ], 
+    Text:"This tablet is the perfect combination of performance and versatility, ideal to accompany each of your activities. Transferring, synchronizing and accessing your devices as many times as you want is now possible. Its bluetooth, wi-fi, usb-c, and wi-fi direct connections allow you to maximize its functions. Capture all your moments instantly Thanks to its cameras, with 8 Mpx and 8 Mpx resolutions, you can make video calls or take photos anytime, anywhere, with excellent image quality. Sharpness, brightness and vibrant colors will make your experiences optimally reflected.", 
     Screen:"10,61-inch",
     Processor:"Dual-Core Cortex-A76",
     OperatingSystem:"Android 12",
@@ -1623,10 +1559,7 @@ let products = [
     type: 'Laundry',
     category:'Electrodomestics',
     description:{
-    Text:["Enjoy greater energy efficiency, less noise, and long-lasting performance. Digital Inverter technology uses powerful magnets for quieter, more powerful performance, yet consumes less power than a universal motor. Provides exceptional durability",
-    "Keep your clothes spotless, even if they are very dirty. The Bubble Soak feature helps remove a wide variety of tough stains including blood, tea, wine, make-up and grass. Clothes are thoroughly soaked in active bubbles, so dirt and stains are loosened and can be removed more effectively",
-    "Avoid the cost and inconvenience of a broken machine. Smart Check is an automatic error monitoring system that you can use with an app*. Detects and diagnoses problems at an early stage and provides quick and easy solutions to fix problems, saving you time and money on repairs"
-],
+    Text:"Enjoy greater energy efficiency, less noise, and long-lasting performance. Digital Inverter technology uses powerful magnets for quieter, more powerful performance, yet consumes less power than a universal motor. Provides exceptional durability. Keep your clothes spotless, even if they are very dirty. The Bubble Soak feature helps remove a wide variety of tough stains including blood, tea, wine, make-up and grass. Clothes are thoroughly soaked in active bubbles, so dirt and stains are loosened and can be removed more effectively. Avoid the cost and inconvenience of a broken machine. Smart Check is an automatic error monitoring system that you can use with an app*. Detects and diagnoses problems at an early stage and provides quick and easy solutions to fix problems, saving you time and money on repairs",
     Size:"850 x 600 x 550",
     weight:"57 kg",
     Color:"White",
@@ -1639,7 +1572,7 @@ let products = [
     "https://images.samsung.com/is/image/samsung/p6pim/ar/ww65a4000eeubg/gallery/ar-ww4000j-ww65a4000eeubg-533902490?$684_547_PNG$",
     "https://images.samsung.com/is/image/samsung/p6pim/ar/ww65a4000eeubg/gallery/ar-ww4000j-ww65a4000eeubg-533902488?$684_547_PNG$"
 ],
-    price: 0,
+    price: 216,
     Moreview: true,
     available: 6,
 },
@@ -1649,10 +1582,7 @@ let products = [
     type: 'Laundry',
     category:'Electrodomestics',
     description:{
-    Text:["Inverter Direct Drive Motor 22 years of useful life.Less noise, Less Vibration and 10 year warranty on the motor.",
-    "6 Motion DD technology provides optimized movement combinations for each type of tissue. Therefore, it offers powerful washing performance with less damage.",
-    "LG has updated the Inverter Direct Drive motor with the latest technology. The improved Direct Drive Motor has better wash performance, allowing you to wash a variety of fabrics more efficiently and with less damage."
-],
+    Text:"Inverter Direct Drive Motor 22 years of useful life.Less noise, Less Vibration and 10 year warranty on the motor. 6 Motion DD technology provides optimized movement combinations for each type of tissue. Therefore, it offers powerful washing performance with less damage. LG has updated the Inverter Direct Drive motor with the latest technology. The improved Direct Drive Motor has better wash performance, allowing you to wash a variety of fabrics more efficiently and with less damage.",
     Size:"600 x 85 x 55",
     weight:"57 kg",
     Color:"Silver",
@@ -1665,7 +1595,7 @@ let products = [
     "https://www.icasahogar.com.ar/21151-medium_default/lavarropas-85kg-frontal-lg-wm8514ee6-inverter-gris.jpg",
     "https://www.icasahogar.com.ar/21153-medium_default/lavarropas-85kg-frontal-lg-wm8514ee6-inverter-gris.jpg"
 ],
-    price: 0,
+    price: 194,
     Moreview: true,
     available: 4,
 },
@@ -1675,8 +1605,7 @@ let products = [
     type: 'Laundry',
     category:'Electrodomestics',
     description:{
-    Text:["Class AA. Cap.6 Kg. Led display. Self-adaptive charging. Sist.Autobalance. 29 Alternative washing. Oversized door. Specific washing cycles. Anti-wrinkle. Quick wash. 1/2 hr wash. Eco Wash. Hand wash. Temperature control. 600RPM.",
-    ],
+    Text:"Class AA. Cap.6 Kg. Led display. Self-adaptive charging. Sist.Autobalance. 29 Alternative washing. Oversized door. Specific washing cycles. Anti-wrinkle. Quick wash. 1/2 hr wash. Eco Wash. Hand wash. Temperature control. 600RPM.",
     Size:"850 x 590",
     weight:"57 kg",
     Color:"white",
@@ -1689,7 +1618,7 @@ let products = [
     "https://medias.musimundo.com/medias/size515-135728-04.jpg?context=bWFzdGVyfGltYWdlc3wzOTc1MXxpbWFnZS9qcGVnfGg1NS9oOWEvMTA0OTU4Mzg0NTM3OTAvc2l6ZTUxNV8xMzU3MjhfMDQuanBnfGIxMjEwYzRjYjlhNWQyNGFkMmExYTljODRjNjgyNDcwYjM2MThmN2QxMDAxZmQzYjI3OTU4NTI5NDZjYjRjY2U",
     "https://medias.musimundo.com/medias/size515-135728-05.jpg?context=bWFzdGVyfGltYWdlc3wzOTY1NnxpbWFnZS9qcGVnfGg3YS9oYTQvMTA0OTU4Mzg3NDg3MDIvc2l6ZTUxNV8xMzU3MjhfMDUuanBnfDcwMDE1NWMzYzA0NWY1NTcyMDgxOTUxMmI3ZGE1ZjM1ZWEzNzA4ZjdlMjNmYzc2MDA4MTJjOWZkZjk0MjFiMGY"
 ],
-    price: 0,
+    price: 180,
     Moreview: false,
     available: 8,
 },
@@ -1699,10 +1628,7 @@ let products = [
     type: 'Laundry',
     category:'Electrodomestics',
     description:{
-    Text:["The WW11BT Whirlpool washing machine has a top load and a washing capacity of 11 kilograms, thanks to its energy efficiency A-C allows you to save, it also has a stainless steel drum that guarantees a longer duration.",
-    "With a spin speed of 700 RPM, the garments finish the wash cycle semi-dry. The impeller washing system generates rotating movements so that the clothes rub against each other, generating water currents that help to obtain greater depth in the cleaning.",
-    "It has a washing cycle for pet clothes that provides better removal of pet hair, removes up to 80% more hair. With the quick wash cycle, clean clothes are obtained in 30 minutes. The large capacity of this washing machine and its expert cycle allow you to wash a queen size duvet."
-],
+    Text:"The WW11BT Whirlpool washing machine has a top load and a washing capacity of 11 kilograms, thanks to its energy efficiency A-C allows you to save, it also has a stainless steel drum that guarantees a longer duration. With a spin speed of 700 RPM, the garments finish the wash cycle semi-dry. The impeller washing system generates rotating movements so that the clothes rub against each other, generating water currents that help to obtain greater depth in the cleaning. It has a washing cycle for pet clothes that provides better removal of pet hair, removes up to 80% more hair. With the quick wash cycle, clean clothes are obtained in 30 minutes. The large capacity of this washing machine and its expert cycle allow you to wash a queen size duvet.",
     Size:"110 x 62 x 66 ",
     weight:" 45kg",
     Color:"Silver",
@@ -1715,7 +1641,7 @@ let products = [
     "https://www.megatone.net/Images/Articulos/thumb2x/39/LAV1170PHI_2.jpg",
     "https://carrefourar.vtexassets.com/arquivos/ids/253817/7797750979672_02.jpg?v=637962607699700000"
 ],
-    price: 0,
+    price: 190,
     Moreview: false,
     available: 4,
 },
@@ -1725,10 +1651,7 @@ let products = [
     type: 'Blender',
     category:'Electrodomestics',
     description:{
-    Text:["practical and safe, its pulse function allows you to start the product intermittently as needed or according to the content of the jug.",
-    "It is suitable for grinding ice in seconds and preparing refreshing smoothies on hot days. Also, you can make your own cocktail drinks at home without having to go to a bar. Now the bartender is you!",
-    "Its removable blade ensures that washing is impeccable and prevents the accumulation of residues that could impair the flavor of food."
-],
+    Text:"practical and safe, its pulse function allows you to start the product intermittently as needed or according to the content of the jug. It is suitable for grinding ice in seconds and preparing refreshing smoothies on hot days. Also, you can make your own cocktail drinks at home without having to go to a bar. Now the bartender is you! Its removable blade ensures that washing is impeccable and prevents the accumulation of residues that could impair the flavor of food.",
     Size:"",
     voltage:"220V",
     Color:"Black",
@@ -1741,7 +1664,7 @@ let products = [
     "https://http2.mlstatic.com/D_Q_NP_703576-MLA48089364759_112021-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_882552-MLA48089364764_112021-R.webp"
 ],
-    price: 0,
+    price: 200,
     Moreview: true,
     available: 5,
 },
@@ -1751,8 +1674,7 @@ let products = [
     type: 'Blender',
     category:'Electrodomestics',
     description:{
-    Text:["An essential appliance in your home. The Electrolux BLL15 blender will help you get incredible results in everything you prepare, whether you want to enjoy a very cold drink, sauces and soups, or delicious desserts. Always have it at hand!",
-   ],
+    Text:"An essential appliance in your home. The Electrolux BLL15 blender will help you get incredible results in everything you prepare, whether you want to enjoy a very cold drink, sauces and soups, or delicious desserts. Always have it at hand!",
     voltage:"220V",
     Color:" White",
     Capacity:"2L",
@@ -1764,7 +1686,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_695836-MLU70400144180_072023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_787594-MLU70400780848_072023-O.webp"
 ],
-    price: 0,
+    price: 210,
     Moreview: false,
     available: 10,
 },
@@ -1774,10 +1696,7 @@ let products = [
     type: 'Blender',
     category:'Electrodomestics',
     description:{
-    Text:["Philips is committed to creating innovative and technological products that make a real difference to those who use them. This is why the brand brings together quality and innovation to offer you a blender that will be essential in your kitchen and that you will be able to use whenever you want.",
-    "Its pulse function allows you to start the product intermittently as needed or according to the content of the jug.",
-    "It is suitable for grinding ice in seconds and preparing refreshing smoothies on hot days. Also, you can make your own cocktail drinks at home without having to go to a bar. Now the bartender is you!"
-],
+    Text:"Philips is committed to creating innovative and technological products that make a real difference to those who use them. This is why the brand brings together quality and innovation to offer you a blender that will be essential in your kitchen and that you will be able to use whenever you want. Its pulse function allows you to start the product intermittently as needed or according to the content of the jug. It is suitable for grinding ice in seconds and preparing refreshing smoothies on hot days. Also, you can make your own cocktail drinks at home without having to go to a bar. Now the bartender is you!",
     voltage:"220V",
     Color:"Black",
     Capacity:"2L",
@@ -1789,7 +1708,7 @@ let products = [
     "https://http2.mlstatic.com/D_Q_NP_892643-MLA52337662432_112022-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_913265-MLU69953466284_062023-R.webp"
 ],
-    price: 0,
+    price: 200,
     Moreview: false ,
     available: 8,
 },
@@ -1799,8 +1718,7 @@ let products = [
     type: 'Blender',
     category:'Electrodomestics',
     description:{
-    Text:["Winco's greatest achievement is to offer its users the best price-quality combination. Its products are effective solutions that make everyday life easier. With the W1910 blender, make exquisite creations to surprise your guests!",
- ],
+    Text:"Winco's greatest achievement is to offer its users the best price-quality combination. Its products are effective solutions that make everyday life easier. With the W1910 blender, make exquisite creations to surprise your guests!",
     voltage:"220W",
     Color:"Silver",
     Capacity:"0,6L",
@@ -1812,7 +1730,7 @@ let products = [
     "https://http2.mlstatic.com/D_NQ_NP_731428-MLU70044724546_062023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_845069-MLU70064603099_062023-O.webp"
 ],
-    price: 0,
+    price: 210,
     Moreview: true ,
     available: 4,
 },
@@ -1822,8 +1740,7 @@ let products = [
     type: 'Kitchen',
     category:'Electrodomestics',
     description:{
-    Text:["This Philco kitchen will help you show off and surprise all your guests. Its design and functionality guarantee you the best performance so that you can prepare your dishes in a comfortable and practical way.",
-],
+    Text:"This Philco kitchen will help you show off and surprise all your guests. Its design and functionality guarantee you the best performance so that you can prepare your dishes in a comfortable and practical way.",
     Color:"Silver",
   Burners:4,
 tactil:"NO",
@@ -1835,7 +1752,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_803056-MLA43786733026_102020-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_969327-MLA43786733029_102020-R.webp"
 ],
-    price: 0,
+    price: 180,
     Moreview: true,
     available: 2,
 },
@@ -1846,8 +1763,7 @@ oven:"YES"
     type: 'Kitchen',
     category:'Electrodomestics',
     description:{
-    Text:["Longvie is a company committed to the environment, which since 1918 has produced and sold household items. Their kitchens are characterized by great robustness that remains unchanged over the years. The quality of the materials allows you to make the most of all the power of your burners without generating high energy consumption.",
-  ],
+    Text:"Longvie is a company committed to the environment, which since 1918 has produced and sold household items. Their kitchens are characterized by great robustness that remains unchanged over the years. The quality of the materials allows you to make the most of all the power of your burners without generating high energy consumption.",
     Color:"White",
   Burners:4,
 tactil:"NO",
@@ -1859,7 +1775,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_739805-MLA53087616491_122022-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_904512-MLU69840595143_062023-R.webp"
 ],
-    price: 0,
+    price: 160,
     Moreview: true,
     available: 10,
 },
@@ -1870,8 +1786,7 @@ oven:"YES"
     type: 'Kitchen',
     category:'Electrodomestics',
     description:{
-    Text:["This Drean kitchen will help you show off and surprise all your guests. Its design and functionality guarantee you the best performance so that you can prepare your dishes in a comfortable and practical way.",
-],
+    Text:"This Drean kitchen will help you show off and surprise all your guests. Its design and functionality guarantee you the best performance so that you can prepare your dishes in a comfortable and practical way.",
     Color:"White",
   Burners:"4",
 tactil:"NO",
@@ -1883,7 +1798,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_974918-MLA69497172078_052023-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_686375-MLU70044735998_062023-R.webp"
 ],
-    price: 0,
+    price: 120,
     Moreview: false,
     available:  8,
 },
@@ -1894,9 +1809,7 @@ oven:"YES"
     type: 'Kitchen',
     category:'Electrodomestics',
     description:{
-    Text:["This Whirlpool kitchen will help you show off and surprise all your guests. Its design and functionality guarantee you the best performance so that you can prepare your dishes in a comfortable and practical way.",
-
-],
+    Text:"This Whirlpool kitchen will help you show off and surprise all your guests. Its design and functionality guarantee you the best performance so that you can prepare your dishes in a comfortable and practical way.",
     Color:"Silver",
   Burners:4,
 tactil:"NO",
@@ -1908,7 +1821,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_753306-MLA41826108410_052020-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_617950-MLA41826108411_052020-R.webp"
 ],
-    price: 0,
+    price: 189,
     Moreview: false,
     available: 7,
 },
@@ -1918,8 +1831,7 @@ oven:"YES"
     type: 'Air',
     category:'Electrodomestics',
     description:{
-    Text:["LG, a pioneer in the technological field and with an international track record, is committed to providing you with the highest quality products and solutions on the market. Enjoying the best air conditioning and with a design that fits with your home is undoubtedly thinking of LG. Air conditioning your spaces throughout the year is something important for your comfort. An LG Dual Cool hot/cold air conditioner is the best decision, since you get a better cost-benefit ratio.",
-   ],
+    Text:"LG, a pioneer in the technological field and with an international track record, is committed to providing you with the highest quality products and solutions on the market. Enjoying the best air conditioning and with a design that fits with your home is undoubtedly thinking of LG. Air conditioning your spaces throughout the year is something important for your comfort. An LG Dual Cool hot/cold air conditioner is the best decision, since you get a better cost-benefit ratio.",
     Color:"White",
  PowerRefrigeration:"1640W",
  PowerHeating:"1500W",
@@ -1932,7 +1844,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_601174-MLA49735681646_042022-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_827362-MLA49735695594_042022-R.webp"
 ],
-    price: 0,
+    price: 200,
     Moreview: true,
     available: 5,
 },
@@ -1942,8 +1854,7 @@ oven:"YES"
     type: 'Air',
     category:'Electrodomestics',
     description:{
-    Text:["Air conditioning your spaces throughout the year is undoubtedly something important for your comfort and that of your loved ones. Having an air conditioning with hot / cold function is the best decision. With this Samsung air I got a better cost-benefit ratio.",
-   ],
+    Text:"Air conditioning your spaces throughout the year is undoubtedly something important for your comfort and that of your loved ones. Having an air conditioning with hot / cold function is the best decision. With this Samsung air I got a better cost-benefit ratio.",
     Color:"White",
  PowerRefrigeration:"1542 W",
  PowerHeating:"1540 W",
@@ -1956,7 +1867,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_NQ_NP_978953-MLA52319545969_112022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_833820-MLA52319617771_112022-O.webp"
 ],
-    price: 0,
+    price: 190,
     Moreview: true,
     available: 2,
 },
@@ -1966,8 +1877,7 @@ oven:"YES"
     type: 'Air',
     category:'Electrodomestics',
     description:{
-    Text:["Air conditioning your spaces throughout the year is undoubtedly something important for your comfort and that of your loved ones. Having an air conditioning with hot / cold function is the best decision. With this Samsung air I got a better cost-benefit ratio.",
-   ],
+    Text:"Air conditioning your spaces throughout the year is undoubtedly something important for your comfort and that of your loved ones. Having an air conditioning with hot / cold function is the best decision. With this Samsung air I got a better cost-benefit ratio.",
     Color:"White",
  PowerRefrigeration:"2800W",
  PowerHeating:"2800W",
@@ -1980,7 +1890,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_848803-MLA54863823937_042023-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_600240-MLA54868197470_042023-R.webp"
 ],
-    price: 0,
+    price: 200,
     Moreview: false,
     available: 5,
 },
@@ -1990,8 +1900,7 @@ oven:"YES"
     type: 'Air',
     category:'Electrodomestics',
     description:{
-    Text:["Air conditioning your spaces throughout the year is undoubtedly something important for your comfort and that of your loved ones. Having an air conditioning with hot / cold function is the best decision. With this RCA air I got a better cost-benefit ratio.",
-   ],
+    Text:"Air conditioning your spaces throughout the year is undoubtedly something important for your comfort and that of your loved ones. Having an air conditioning with hot / cold function is the best decision. With this RCA air I got a better cost-benefit ratio.",
     Color:"White",
  PowerRefrigeration:"996W",
  PowerHeating:"996W",
@@ -2004,7 +1913,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_648506-MLU70198914863_062023-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_702959-MLU70198914871_062023-R.webp"
 ],
-    price: 0,
+    price: 180,
     Moreview: true,
     available: 4,
 },
@@ -2014,9 +1923,7 @@ oven:"YES"
     type: 'Fridge',
     category:'Electrodomestics',
     description:{
-    Text:["Enjoy your fresh food and store it in a practical and comfortable way in the Samsung refrigerator, the protagonist of the kitchen.",
-    "Freshness in your food.Every time you open the door hot air leaks in; Therefore, by having temperature control, you will be able to regulate the degrees so that your products always stay fresh. In addition, due to its inverter technology, this refrigerator cools your meals through an intelligent system with sensors that regulate the speed of the motor, maintaining the temperature evenly inside."
-   ],
+    Text:"Enjoy your fresh food and store it in a practical and comfortable way in the Samsung refrigerator, the protagonist of the kitchen. Freshness in your food.Every time you open the door hot air leaks in; Therefore, by having temperature control, you will be able to regulate the degrees so that your products always stay fresh. In addition, due to its inverter technology, this refrigerator cools your meals through an intelligent system with sensors that regulate the speed of the motor, maintaining the temperature evenly inside.",
     Color:"Black",
     voltage:"220V",
     Size:"912 x 851 x 1780",
@@ -2030,7 +1937,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_863034-MLA50008739807_052022-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_920285-MLA50008783177_052022-R.webp"
 ],
-    price: 0,
+    price: 160,
     Moreview: true,
     available: 1,
 },
@@ -2040,9 +1947,7 @@ oven:"YES"
     type: 'Fridge',
     category:'Electrodomestics',
     description:{
-    Text:["Electrolux is committed to innovation and customer satisfaction. That is why it develops various models of refrigerators and adjusts its design and technology to each type of home.",
-    "Comfort for your home Its no frost system prevents the generation of frost and will allow you to preserve the flavor and nutritional properties of the products."
-   ],
+    Text:"Electrolux is committed to innovation and customer satisfaction. That is why it develops various models of refrigerators and adjusts its design and technology to each type of home. Comfort for your home Its no frost system prevents the generation of frost and will allow you to preserve the flavor and nutritional properties of the products.",
     Color:"Silver",
     voltage:"220V",
     Size:"613 x 673 x 1856",
@@ -2056,7 +1961,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_881428-MLA48828095408_012022-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_976064-MLU69994724160_062023-R.webp"
 ],
-    price: 0,
+    price: 180,
     Moreview: false,
     available: 10,
 },
@@ -2066,9 +1971,7 @@ oven:"YES"
     type: 'Fridge',
     category:'Electrodomestics',
     description:{
-    Text:["Enjoy your fresh food and store it in a practical and comfortable way in the Samsung refrigerator, the protagonist of the kitchen.",
-    "Freshness in your food.Every time you open the door hot air leaks in; Therefore, by having temperature control, you will be able to regulate the degrees so that your products always stay fresh. In addition, due to its inverter technology, this refrigerator cools your meals through an intelligent system with sensors that regulate the speed of the motor, maintaining the temperature evenly inside."
-   ],
+    Text:"Enjoy your fresh food and store it in a practical and comfortable way in the Samsung refrigerator, the protagonist of the kitchen. Freshness in your food.Every time you open the door hot air leaks in; Therefore, by having temperature control, you will be able to regulate the degrees so that your products always stay fresh. In addition, due to its inverter technology, this refrigerator cools your meals through an intelligent system with sensors that regulate the speed of the motor, maintaining the temperature evenly inside.",
     Color:"Silver",
     voltage:"220V",
     Size:"675 x 668 x 1785",
@@ -2082,7 +1985,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_879763-MLA40493211410_012020-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_908565-MLU69811155240_062023-R.webp"
 ],
-    price: 0,
+    price: 200,
     Moreview: true,
     available: 5,
 },
@@ -2092,9 +1995,7 @@ oven:"YES"
     type: 'Fridge',
     category:'Electrodomestics',
     description:{
-    Text:["Electrolux is committed to innovation and customer satisfaction. That is why it develops various models of refrigerators and adjusts its design and technology to each type of home.",
-    "Indoor practicality.The arrangement of 2 shelves will provide you with great space savings and easy location of your products. Thanks to their resistant material, you will not have to worry about the weight you place on them and you will organize each corner to your liking to optimize their use. It has 1 shelf and a capacity of 73 liters, which will facilitate the distribution and order of your frozen foods."
-   ],
+    Text:"Electrolux is committed to innovation and customer satisfaction. That is why it develops various models of refrigerators and adjusts its design and technology to each type of home. Indoor practicality.The arrangement of 2 shelves will provide you with great space savings and easy location of your products. Thanks to their resistant material, you will not have to worry about the weight you place on them and you will organize each corner to your liking to optimize their use. It has 1 shelf and a capacity of 73 liters, which will facilitate the distribution and order of your frozen foods.",
     Color:"Silver",
     voltage:"220V",
     Size:"613 x 673 x 1536",  
@@ -2108,7 +2009,7 @@ oven:"YES"
     "https://http2.mlstatic.com/D_Q_NP_977139-MLA54714153257_032023-R.webp",
     "https://http2.mlstatic.com/D_Q_NP_758866-MLA54714121591_032023-R.webp"
 ],
-    price: 0,
+    price: 230,
     Moreview: true,
     available: 8,
 },
@@ -2116,7 +2017,7 @@ oven:"YES"
     title: "PC Core i3-10100F E670 8|256|19|GT210",
     cover_photo: ["https://i.ibb.co/yNCqyyz/Pc-i3.png"],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Antryx elegant 670",
             monitor: `19" Samsung LS19A330NHLXPE HD HDMi/VGA`,
@@ -2142,7 +2043,7 @@ oven:"YES"
     title: "PC Core i5-10400F MX360 16|500|21.5|1660",
     cover_photo: ["https://i.ibb.co/1Xtyg2x/Pc-i5.png"],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Cougar MX360 RGB",
             monitor: `Asus VP228HE 21.5" FHD HDMi/VGA`,
@@ -2168,7 +2069,7 @@ oven:"YES"
     title: "PC Core i7-11700F CMP320 16|1|24|3060",
     cover_photo: ["https://i.ibb.co/KWmJn4W/Pc-i7.png"],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Cooler Master CMP 320",
             monitor: `LG 24" 24Gn60R-B FHD HDMi/VGA`,
@@ -2194,7 +2095,8 @@ oven:"YES"
     title: "PC Core i9-11900KF AC300G 16|1|27|3070",
     cover_photo: ["https://i.ibb.co/r41FVnX/Pc-i9.png"],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
         features: {
             case: "Gigabyte Aorus AC300G",
             monitor: `G27QC 2K 27" QHB CURVO HDMi/VGA`,
@@ -2222,7 +2124,8 @@ oven:"YES"
         "https://i.ibb.co/qCTd3Nm/Pc-R3.png"
     ],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
         features: {
             case: "Cougar Gemini M",
             monitor: `Samsung C360 FHD Curvo HDMi/VGA`,
@@ -2250,7 +2153,7 @@ oven:"YES"
         "https://i.ibb.co/s5y4rkk/Pc-R5.png"
     ],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Destroyer MESH",
             monitor: `Samsung LS22A336 22" FHD HDMi/VGA`,
@@ -2278,7 +2181,8 @@ oven:"YES"
         "https://i.ibb.co/686jpx6/Pc-R7.png"
     ],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
         features: {
             case: "Case BOX MB600L V2",
             monitor: `LG 26" FHD HDMi/VGA`,
@@ -2306,7 +2210,9 @@ oven:"YES"
         "https://i.ibb.co/nr3nDy7/Pc-R9.png"
     ],
     description: {
-        main: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+
+        Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+
         features: {
             case: "MSI MPG Gungnir 111R",
             monitor: `MSI OPTIX MAG270VC2  27" FHD HDMi/VGA`,
@@ -2335,7 +2241,10 @@ oven:"YES"
         "https://i.ibb.co/jLQSYz2/sillas-game-purple2.webp",
         "https://i.ibb.co/vkPkZ3G/sillas-game-purple3.webp"
     ],
-    description: `Almohadillas superior desmontables. Base de acero cromado de 5 estrellas con ruedas. apoyabrazos elevados. Rotación-giro de 360 grados. Diseño ergonomico.  Acabado de cuero sintético completo. Materiales: Cuero Pu / Pvc / Metal / Nylon`,
+
+    description: {
+      Text: `Removable upper pads. 5-star chrome steel base with wheels. raised armrests. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon`
+    },
     price: 80,
     verified: true,
     verify_code: "",
@@ -2351,7 +2260,10 @@ oven:"YES"
         "https://i.ibb.co/86MLqWt/gamer-masajeador.png",
         "https://i.ibb.co/VL3fHSm/gamer-masageador-descripcion.jpg"
     ],
-    description: `Almohadillas superior e inferior desmontables con masajeador usb. Base de acero cromado de 5 estrellas con ruedas. Altura ajustable y apoyabrazos elevados. Mecanismo de bloqueo de inclinacion 90-150 grados. Rotación-giro de 360 grados. Diseño ergonomico.  Acabado de cuero sintético completo. Materiales: Cuero Pu / Pvc / Metal / Nylon.`,
+
+    description: {
+      Text: `Removable upper and lower pads with usb massager. 5-star chrome steel base with wheels. Adjustable height and raised armrests. Tilt lock mechanism 90-150 degrees. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish. Materials: Pu Leather / Pvc / Metal / Nylon.`,
+    },
     price: 140,
     verified: true,
     verify_code: "",
@@ -2367,7 +2279,11 @@ oven:"YES"
         "https://i.ibb.co/WHGwYfX/silla-verde2.webp",
         "https://i.ibb.co/JjMfsCy/silla-verde3.webp"
     ],
-    description: `Ensamblados con componentes de las mejores marcas para ofrecer unas computadoras de primera calidad y garantizar el máximo rendimiento en el desarrollo de todos tus proyectos.`,
+
+    description: {
+  Text: `Assembled with components from the best brands to offer top quality computers and guarantee maximum performance in the development of all your projects.`,
+    },
+
     price: 130,
     verified: true,
     verify_code: "",
@@ -2383,7 +2299,8 @@ oven:"YES"
         "https://i.ibb.co/1bKr8Fq/silla-polo3.webp",
         "https://i.ibb.co/NY7vCHp/silla-polo2.jpg"
     ],
-    description: `Almohadillas superior e inferior desmontables. Base de acero cromado de 5 estrellas con ruedas. apoyabrazos elevados, apoyapies, reclina 90°, ajuste de altura. Rotación-giro de 360 grados. Diseño ergonomico.  Acabado de cuero sintético completo.`,
+    description: {Text: `Removable upper and lower pads. 5-star chrome steel base with wheels. raised armrests, footrest, reclines 90°, height adjustment. Rotation-360 degree turn. Ergonomic design. Full synthetic leather finish.`,
+},
     price: 140,
     verified: true,
     verify_code: "",
@@ -2398,8 +2315,8 @@ oven:"YES"
         "https://i.ibb.co/VCDTvm3/maose-pro.jpg",
         "https://i.ibb.co/wzGBpxk/maose-pro2.jpg"
     ],
-    description: `
-    Este mouse modular inalámbrico para juegos viene con 3 tipos de placas laterales que encajan magnéticamente: diseños de 12, 6 y 2 botones especialmente diseñados para ayudarlo a adaptarse a diferentes géneros de juegos. Optimice su juego con estas configuraciones de botones recomendadas para cada placa lateral.`,
+    description: 
+{Text: `This wireless modular gaming mouse comes with 3 types of magnetically snap-on side plates: 12-, 6-, and 2-button layouts specially designed to help you adapt to different gaming genres. Optimize your game with these recommended button configurations for each side plate.`},
     price: 80,
     verified: true,
     verify_code: "",
@@ -2415,8 +2332,10 @@ oven:"YES"
         "https://i.ibb.co/KNqqmJG/mx2.jpg",
         "https://i.ibb.co/18wWkqR/mx3.jpg"
     ],
-    description: `
-	El trackball más avanzado de Logitech para fieles entusiastas y usuarios que busquen alternativas a ratones y touchpads. Requiere un 20% menos de esfuerzo muscular que un ratón estándar.`,
+    description: {Text: `
+
+	Logitech's most advanced trackball for loyal enthusiasts and users looking for alternatives to mice and touchpads. It requires 20% less muscular effort than a standard mouse.`,
+                 },
     price: 120,
     verified: true,
     verify_code: "",
