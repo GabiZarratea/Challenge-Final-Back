@@ -13,13 +13,19 @@ const userRegister = joi.object({
     password: joi.string()
         .required()
         .min(6)
-        .max(20)
+        .max(50)
         .messages({
             "string.min": "Your password must have a minimum of 8 characters",
             "string.max": "Your password must have a maximum of 20 characters",
             "string.empty": "Please, insert a password"
         }),
-        
+    location: joi.string()
+        .optional(),
+    photo: joi.string().uri()
+        .messages({
+            "string.uri": "Invalid photo URL. Please provide a valid URL",
+            "string.empty": "Please, insert a photo URL"
+        }),
 });
 
 export default userRegister;

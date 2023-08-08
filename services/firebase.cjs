@@ -70,4 +70,4 @@ const uploadImage = (req, res, next) => {
 
 //     stream.end(imagen.buffer);
 // }
-module.exports = {uploadImage, uploadImageCoverFhoto};
+module.exports = {uploadImage, /*uploadImageCoverFhoto*/};
