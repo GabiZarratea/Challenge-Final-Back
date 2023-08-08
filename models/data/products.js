@@ -363,7 +363,7 @@ let products = [
     Type: 'VINCHA OVER EAR'
     },
     cover_photo:[
-    "https://medias.musimundo.com/medias/00299076-175886-175886-01.png-175886-01.png-size515?context=bWFzdGVyfGltYWdlc3wzOTM4MjV8aW1hZ2UvcG5nfGg2Zi9oNzYvMTAzMjA4NzkwMjYyMDYvMDAyOTkwNzYtMTc1ODg2LTE3NTg4Nl8wMS5wbmctMTc1ODg2XzAxLnBuZ19zaXplNTE1fDljMzVlNzU0MGUzMmY5YjRlNmJmODM3MmZlNmM2YWE4MDU1NGRhMTc3ZWU4NzIxY2M5OGEzNzE3NjQzNDVlMWY"
+    "https://stromberg.com.ar/cdn/shop/products/1.PortadaYard.jpg?v=1679411054&width=1024"
     ],
     price: 52,
     brand:'Samsung',
@@ -613,7 +613,7 @@ let products = [
         Ram:'8GB DDR4-3200 MHz (2 x 4GB)'
     },
     cover_photo:[
-     'https://www.alkosto.com/computador-portatil-hp-pavilion-156-pulgadas-eg0500la-intel-core-i5-ram-8gb-disco-ssd-256-gb-plateado/p/196786419003',
+     'https://www.notebookcheck.org/fileadmin/Notebooks/HP/Pavilion_14-dv0357ng/hp_pavilion_14_dv0357ng_2.png',
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/04.png',
      'https://media.aws.alkomprar.com/ymarketingcolcomercio/Alkosto/informatica/contenido/HP/196786419003/img2/04_galeria/05.png'
     ],
@@ -1219,7 +1219,7 @@ let products = [
     Color:"Gold"
     }, 
     cover_photo:[
-    "https://m.media-amazon.com/images/I/71k0zz+8paL._AC_SX679_.jpg",
+    "https://chalber.com/wp-content/uploads/2022/10/iphone-14-pro-max-oro-01.jpg",
     "https://m.media-amazon.com/images/I/61sDyXAepuL._AC_SX679_.jpg",
     "https://m.media-amazon.com/images/I/7161nwSVX9L._AC_SX679_.jpg"
 ],
@@ -1660,9 +1660,9 @@ let products = [
     Velocity:3
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_690238-MLA48089495239_112021-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_703576-MLA48089364759_112021-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_882552-MLA48089364764_112021-R.webp"
+    "https://osterar.vteximg.com.br/arquivos/ids/155977-1000-1000/BLSTPYG1211NBG-1.jpg?v=637063377771970000",
+    "https://http2.mlstatic.com/D_Q_NP_781246-MLA48089532092_112021-O.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_882552-MLA48089364764_112021-O.webp"
 ],
     price: 200,
     Moreview: true,
@@ -1704,9 +1704,9 @@ let products = [
     Velocity:2
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_710297-MLA52337550714_112022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_892643-MLA52337662432_112022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_913265-MLU69953466284_062023-R.webp"
+    "https://images.philips.com/is/image/philipsconsumer/03bf1ddfefec47f49510ae4b006c6a52?$jpglarge$&wid=1250",
+    "https://images.philips.com/is/image/philipsconsumer/235fa45cce154b8ebc6cae5800a220e8?$jpglarge$&wid=1250",
+    "https://tangohogar.com.ar/wp-content/uploads/21264.jpg"
 ],
     price: 200,
     Moreview: false ,
@@ -1726,7 +1726,7 @@ let products = [
     Velocity:1
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_650139-MLA48800496860_012022-R.webp",
+    "https://http2.mlstatic.com/D_Q_NP_650139-MLA48800496860_012022-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_731428-MLU70044724546_062023-O.webp",
     "https://http2.mlstatic.com/D_NQ_NP_845069-MLU70064603099_062023-O.webp"
 ],
@@ -1748,9 +1748,9 @@ ignition:"Electric ignition",
 oven:"YES"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_723816-MLA43786688185_102020-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_803056-MLA43786733026_102020-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_969327-MLA43786733029_102020-R.webp"
+    "https://www.itecomdigital.com.ar/wp-content/uploads/2022/03/COCINA-ELECTRICA-HOTPLATE-50CM-PHILCO-PHCH050P-2.png",
+    "https://philco.com.ar/media/catalog/product/cache/c8f6a96bef9e9f64cd4973587df2520f/p/h/phch050p_02_3.jpg",
+    "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/160/892/products/d_nq_np_2x_969327-mla43786733029_102020-f1-7608dbb7d409d461eb16643722055312-640-0.jpg"
 ],
     price: 180,
     Moreview: true,
@@ -1771,9 +1771,9 @@ ignition:"Gas",
 oven:"YES"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_730587-MLA53087619395_122022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_739805-MLA53087616491_122022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_904512-MLU69840595143_062023-R.webp"
+    "https://http2.mlstatic.com/D_NQ_NP_718294-MLU70065029443_062023-O.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_950372-MLU70045097108_062023-O.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_900810-MLA27033193598_032018-O.webp"
 ],
     price: 160,
     Moreview: true,
@@ -1794,9 +1794,9 @@ ignition:"Gas",
 oven:"YES"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_688987-MLA69510049137_052023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_974918-MLA69497172078_052023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_686375-MLU70044735998_062023-R.webp"
+    "https://drean.com.ar/medias/1200Wx1200H-Cocina-Drean-55cm-CD5505AI-6.jpg?context=bWFzdGVyfGltYWdlc3wxODk5MDR8aW1hZ2UvanBlZ3xhRFpsTDJobE9TOHhNREl6TkRBek1EazBPRE00TWk4eE1qQXdWM2d4TWpBd1NGOURiMk5wYm1FdFJISmxZVzR0TlRWamJTMURSRFUxTURWQlNTMDJMbXB3Wnd8ZmY2NGYyNzRiNWFiZTE2YmIyNTMwNjc1YWI2NDhkMTBlZTU1NjExMjlmOWI5OGFkMDc2NTk5YjhiYTViZmMxNA",
+    "https://drean.com.ar/medias/1200Wx1200H-Cocina-Drean-55cm-CD5507AI-3.jpg?context=bWFzdGVyfGltYWdlc3wxMzU3MzN8aW1hZ2UvanBlZ3xhRGM1TDJnNE1DOHhNREl6TkRBME5EVXhORE16TkM4eE1qQXdWM2d4TWpBd1NGOURiMk5wYm1FdFJISmxZVzR0TlRWamJTMURSRFUxTURkQlNTMHpMbXB3Wnd8OGNkMDQ0ZDA5NzgwOGZmYzE5YmUwYzZjOTdmYjQyM2Y0OTBiMWUwNjAwNDQ2NmEyZDhiMzBhYTIwNDQyMTAzMA",
+    "https://images.fravega.com/f500/d4150b568d518d076c1ac8d79796524d.png"
 ],
     price: 120,
     Moreview: false,
@@ -1817,9 +1817,9 @@ ignition:"Electric",
 oven:"YES"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_707214-MLA41826108409_052020-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_753306-MLA41826108410_052020-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_617950-MLA41826108411_052020-R.webp"
+    "https://http2.mlstatic.com/D_NQ_NP_617950-MLA41826108411_052020-O.webp",
+    "https://http2.mlstatic.com/D_Q_NP_753306-MLA41826108410_052020-O.webp",
+    "https://mejores10.com/images/10003690/1603/1498219458_7895.jpg"
 ],
     price: 189,
     Moreview: false,
@@ -1840,9 +1840,9 @@ oven:"YES"
  Size:"998 x 210 x 345"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_NQ_NP_826176-MLA52734816187_122022-O.webp",
-    "https://http2.mlstatic.com/D_Q_NP_601174-MLA49735681646_042022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_827362-MLA49735695594_042022-R.webp"
+    "https://www.lg.com/ar/images/aire-acondicionado/md05912316/gallery/medium02.jpg",
+    "https://www.lg.com/ar/images/aire-acondicionado/md05912316/gallery/medium06.jpg",
+    "https://www.kissu.com.ec/imagenes//productos/lg/1585612534.jpg"
 ],
     price: 200,
     Moreview: true,
@@ -1863,9 +1863,9 @@ oven:"YES"
  Size:"971 x 228 x 321"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_657816-MLA52319566990_112022-R.webp",
-    "https://http2.mlstatic.com/D_NQ_NP_978953-MLA52319545969_112022-O.webp",
-    "https://http2.mlstatic.com/D_NQ_NP_833820-MLA52319617771_112022-O.webp"
+    "https://www.naldo.com.ar/medias/Method-207045-2-515Wx515H?context=bWFzdGVyfGltYWdlc3wxMTg5OXxpbWFnZS9qcGVnfGltYWdlcy9oNzQvaGE1Lzk2MzUyNDU1NTU3NDIuanBnfGUyYTZmNGU0ZmFlODQxMDAxZTFkNDAxZjBhNzMzNjljOGQ2MzljNjc5YTc0Nzk4MTBkYjNiOTAyMDE0ODg1MGI",
+    "https://www.todohogar.com/204233-medium_default/samsung-aire-acondicionado-split-inverter-12000-btu-ar12tvhqawkxedkned412m4-24000-btu-ar24tvhqawkxedkned858m4.jpg",
+    "https://expertclima.es/5648-large_default/samsung-r-5418-aire-acondicionado-1x1-aire-acondicionado-r32.jpg"
 ],
     price: 190,
     Moreview: true,
@@ -1886,9 +1886,9 @@ oven:"YES"
  Size:"80 X 33 X 55"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_882490-MLA54868197986_042023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_848803-MLA54863823937_042023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_600240-MLA54868197470_042023-R.webp"
+    "https://images.fravega.com/f1000/389a549f6775b42ba910309ee3836714.jpg",
+    "https://www.electrooutlet.com.ar/Image/0/750_750-D_NQ_NP_811262-MLA52224375193_102022-O.jpg",
+    "https://noblex.com.ar/media/wysiwyg/AA_NOBLEX.png"
 ],
     price: 200,
     Moreview: false,
@@ -1909,9 +1909,9 @@ oven:"YES"
  Size:"770 x 201 x 250"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_798317-MLA53182942618_012023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_648506-MLU70198914863_062023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_702959-MLU70198914871_062023-R.webp"
+    "https://www.electromisiones.com.ar/26050-large_default/aire_acondicionado_rca_re3200fc_3200w_2800fg_on_off_split_frio_calor.jpg",
+    "https://http2.mlstatic.com/D_NQ_NP_634813-MLA44028266771_112020-O.webp",
+    "https://www.dualequipamientos.com.ar/wp-content/uploads/2023/02/AANoblexUi.jpg"
 ],
     price: 180,
     Moreview: true,
@@ -1933,9 +1933,9 @@ oven:"YES"
     Weight:"139kg"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_972873-MLA50008739804_052022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_863034-MLA50008739807_052022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_920285-MLA50008783177_052022-R.webp"
+    "https://http2.mlstatic.com/D_NQ_NP_972873-MLA50008739804_052022-F.jpg",
+    "https://www.coopehogar.coop/media/ch/publico/articulos/5/9/4/5949d506726dcf2569f50c5d2d791c50",
+    "https://www.coopehogar.coop/media/ch/publico/articulos/3/a/b/3abf2827114d8ec88419b8030638b046"
 ],
     price: 160,
     Moreview: true,
@@ -1957,9 +1957,9 @@ oven:"YES"
     Weight:"63kg"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_636318-MLA48828050857_012022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_881428-MLA48828095408_012022-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_976064-MLU69994724160_062023-R.webp"
+    "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/435/387/products/194184-f036aed7f63c8a92c216712898252354-480-0.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_881428-MLA48828095408_012022-O.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_889506-MLA48828095410_012022-O.webp"
 ],
     price: 180,
     Moreview: false,
@@ -1981,9 +1981,9 @@ oven:"YES"
     Weight:"68kg"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_976585-MLA40492791635_012020-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_879763-MLA40493211410_012020-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_908565-MLU69811155240_062023-R.webp"
+    "https://http2.mlstatic.com/D_NQ_NP_702915-MLA49771670351_042022-O.webp",
+    "https://http2.mlstatic.com/D_NQ_NP_654511-MLA50724646113_072022-O.webp",
+    "https://cdnlaol.laanonimaonline.com/webapp_webp/images/fotos/b/0000010000/4905_3.webp"
 ],
     price: 200,
     Moreview: true,
@@ -2005,9 +2005,9 @@ oven:"YES"
     Weight:"58kg"
     }, 
     cover_photo:[
-    "https://http2.mlstatic.com/D_Q_NP_933105-MLA54713909817_032023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_977139-MLA54714153257_032023-R.webp",
-    "https://http2.mlstatic.com/D_Q_NP_758866-MLA54714121591_032023-R.webp"
+    "https://praga.com.ar/wp-content/uploads/2023/04/D_933105-MLA54713909817_032023-F-1000x1000.jpg",
+    "https://http2.mlstatic.com/D_Q_NP_828117-MLA54717841112_032023-O.webp",
+    "https://www.tupi.com.py/imagen/600__600__1e8cb4-46206_2.jpg"
 ],
     price: 230,
     Moreview: true,
