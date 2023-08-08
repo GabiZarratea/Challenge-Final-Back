@@ -15,13 +15,13 @@ const userSignin = joi.object({
     password: joi.string()
     .required()
     .min(6)
-    .max(20)
+    .max(50)
     .alphanum()
     .message({
         'string.base': 'Password must be a text',
             'string.empty': 'Password is a required field',
             'string.min': 'Password must be at least 8 characters',
-            'string.max': 'Password cannot be longer than 20 characters',
+            'string.max': 'Password cannot be longer than 50 characters',
             'string.alphanum': 'Password can only contain alphanumeric characters'
     })
 })
