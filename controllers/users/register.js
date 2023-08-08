@@ -45,7 +45,7 @@ export default async (req, res, next) => {
         const verificationCode = generateVerificationCode();
 
         // Crear el usuario en la base de datos con el código de verificación
-        const newUser = await User.create({ ...req.body, verify_code: verificationCode });
+        const newUser = await User.create({ ...req.body, role: 1, verify_code: verificationCode });
 
         // Enviar el correo de verificación
         const mailOptions = {
