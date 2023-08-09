@@ -28,4 +28,4 @@ const userRegister = joi.object({
         }),
 });
 
-export default userRegister;
+export default userRegister
