@@ -1,6 +1,6 @@
 let admin = require("firebase-admin");
 let serviceAccount = require("../firebase-key.json")
-const { date } = require("joi");
+const { date } = require("joi")
 
 //en el BUCKET se guarda la direccion del Storage de Firebase.
 const BUCKET = "proyecto-final-74084.appspot.com"
@@ -70,4 +70,4 @@ const uploadImage = (req, res, next) => {
 
 //     stream.end(imagen.buffer);
 // }
-module.exports = {uploadImage, uploadImageCoverFhoto};
+module.exports = {uploadImage, /*uploadImageCoverFhoto*/};
