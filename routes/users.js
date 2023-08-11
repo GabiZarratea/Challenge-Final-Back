@@ -15,11 +15,13 @@ import uploadFile from "../middlewares/upload_file.js";
 import  { uploadImage } from "../services/firebase.cjs";
 import registerGoogle from "../controllers/users/registerGoogle.js"
 import create from "../controllers/users/create.js";
+import update from "../controllers/users/update.js";
 
 const user_router = Router();
 
 user_router.get('/', read);
 user_router.post('/createAdmin', validator(userRegister), accountExists, createHash, create);
+user_router.put('/updateAdmin/:id', update);
 user_router.post("/signout", signout);
 user_router.post("/signin", validator(userSignin), accountNotExists, passwordIsOk,generateToken,signin);
 user_router.post('/register', uploadFile(), uploadImage, validator(userRegister), accountExists, createHash, register);
