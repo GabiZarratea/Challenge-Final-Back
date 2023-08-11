@@ -16,6 +16,7 @@ import  { uploadImage } from "../services/firebase.cjs";
 import registerGoogle from "../controllers/users/registerGoogle.js"
 import create from "../controllers/users/create.js";
 
+
 const user_router = Router();
 
 user_router.get('/', read);
@@ -24,5 +25,6 @@ user_router.post("/signout", signout);
 user_router.post("/signin", validator(userSignin), accountNotExists, passwordIsOk,generateToken,signin);
 user_router.post('/register', uploadFile(), uploadImage, validator(userRegister), accountExists, createHash, register);
 user_router.post('/google', validator(userRegister), accountExists, createHash,registerGoogle)
+
 
 export default user_router;
