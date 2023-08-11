@@ -26,6 +26,8 @@ const userRegister = joi.object({
             "string.uri": "Invalid photo URL. Please provide a valid URL",
             "string.empty": "Please, insert a photo URL"
         }),
+    role: joi.number()
+    .optional(),
 });
 
 export default userRegister
