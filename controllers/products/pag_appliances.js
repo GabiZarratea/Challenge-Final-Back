@@ -2,7 +2,7 @@ import Products from "../../models/Product.js";
 
 export default async (req, res, next) => {
   try {
-    let pagination = { page: 1, limit: 6 };
+    let pagination = { page: 1, limit: 8 };
     if (req.query.page) {
       pagination.page = req.query.page;
     }
